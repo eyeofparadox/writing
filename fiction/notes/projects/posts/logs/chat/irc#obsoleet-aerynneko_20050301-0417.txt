@@ -1,0 +1,11 @@
+[18:07] *** -Q- Hello, Aerynneko. A new user account has been created for you, with nick Aerynneko.
+[18:07] *** -Q- Next time you login and want to identify yourself type:
+[18:07] *** -Q- /MSG Q@cserve.funcom.com AUTH Aerynneko Aerynn8076
+[18:07] *** -Q- Your password is initially Aerynn8076. You'll need to use the NEWPASS command to change it. To change to the password 'abc9189' then type:
+[18:07] *** -Q- /MSG Q NEWPASS abc9189 abc9189
+[18:07] *** -Q- After you change your password, you have to AUTH yourself with the new password:
+[18:07] *** -Q- /MSG Q@cserve.funcom.com AUTH Aerynneko abc9189
+[18:07] *** -Q- MOTD: We have added a new feature to Q now. To prevent problems in case you forget your login/password, two new commands are added. (EMAIL, REQUESTPASSWORD) IRCOperators will NEVER send passwords to users anymore. If you have set your E-mail you can get the password by yourself, otherwise you have to re-create a new account.
+[18:07] *** -Q- /MSG Q HELP EMAIL    /MSG Q HELP REQUESTPASSWORD
+
+/MSG Q@cserve.funcom.com AUTH Aerynneko imnnsn21

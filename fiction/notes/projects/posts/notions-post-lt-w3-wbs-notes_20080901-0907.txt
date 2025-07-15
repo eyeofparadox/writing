@@ -1,0 +1,140 @@
+A WBS chart should appear in this section with an explanation of the hierarchical relationship between each level appearing on the chart. Level one of the WBS is the end result (product or service) of the project. Level two consists of the major tasks outlined in the SOW, and level three lists the subtasks contained within each SOW task. Use the series of charts available in Microsoft Project. 
+
+Creating the WBS involves subdividing the major project deliverables into smaller, more manageable components. The main outputs include a work breakdown structure (WBS), a WBS dictionary, a scope baseline, requested changes to the project, and updates to the project scope statement and project scope management plan.
+
+WBS
+
+A Work Breakdown Structure (WBS) is also referred to as a task network. It is called the “foundation document” in project management because it
+provides the basis for planning and managing project schedules, costs, resources and changes. A WBS includes:
+• Task identification (number and name)
+• Task descriptions
+	• Verb – noun
+	• Milestones
+	• Deliverables
+	• Subtasks
+• Task sequence
+• Task precedence relationship
+	• Task precedence is an indicator of the interrelationship between task start and stop times. Time intervals can be evaluated using
+several methodologies:
+o Start to finish o Start to start
+o Finish to finish
+o Overlap between tasks
+o The gap between tasks
+• Task roll-up
+• The following approaches may be used to develop Work Breakdown Structures:
+	• Guidelines
+	• Analogy
+	• Top-down
+o Using this methodology, a complex project is decomposed (i.e. divided up) into less complex sub-projects – or tasks.
+	• Bottom-up
+o An alternative to the top-down methodology is the bottom-up (“grass roots”) methodology. In a bottom-up approach you start
+by defining the low-level tasks and then figure out how these will be put together to create successively higher-level tasks, and
+ultimately the entire system. There are many advantages to using a bottom-up methodology. The most important advantage is
+that we are assured that we will conform with requirements as each requirement is tasked at a low level, thus satisfying our
+end-users. Therefore, it can be said that bottom-up estimating is the most precise of all methodologies.
+
+Table 5-4: Intranet WBS in Tabular Form
+1.0 Concept
+1.1 Evaluate current systems
+1.2 Define requirements
+1.2.1 Define user requirements
+1.2.2 Define content requirements
+1.2.3 Define system requirements
+1.2.4 Define server owner requirements
+1.3 Define specific functionality
+1.4 Define risks and risk management approach
+1.5 Develop project plan
+1.6 Brief Web development team
+2.0 Web Site Design
+3.0 Web Site Development
+4.0 Roll Out
+5.0 Support
+
+
+
+
+design stage of the project
+
+initial programming and testing by the programmers
+
+Once the project has been programmed, if needed, the Quality Assurance department for any process issues and/or software bugs will test it.  
+
+After testing, the system will need to be fully documented.  This includes all forms of documentation.  
+
+After the documentation process, implementation and training can take place.  
+Once completed, the system will need to be maintained by the party identified by the stakeholders.
+
+
+Project (Plan) Approach
+	This project will begin with members of the project team working closely with employees in the sales and marketing departments. The project team will be conducting interviews and observations to fully understand the current process. In order to create an integrated database, the team must have a complete understanding of how the system is working currently.
+	
+second phase in the project 
+build an integrated database
+
+database will have two tables, one for sales and one for marketing
+sales side of the database will include fields to enter customer information and sales information for each of the 27 – 32 customers
+
+marketing side of the database will include fields for past marketing plans and results from past market research studies
+
+third phase of the project 
+
+scan/enter all of the existing sales/marketing information into the new database. 
+The information is currently stored in filing cabinets, which are maintained by each individual member of the sales team. 
+
+
+fourth phase in the project 
+
+training
+
+Employees on both the sales and marketing teams will be trained on how to use the new system. Comprehensive training will be provided so employees will fully understand and be comfortable using the new database system. 
+
+final phase of the project 
+
+support and maintenance
+
+The system will be monitored to ensure correct transfer of data from one side of the database to another. 
+
+Support personnel will be available to assist employees in any trouble they may be having.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

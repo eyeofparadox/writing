@@ -1,0 +1,69 @@
+Caitlyn Aria	Female, 5'9", 135lbs, Attractive, Feline, StudLeaArmor 3/3
+ST 09/27	-10	Encumberance	18:36:54:108:180	
+DX 14/15	45	Thrust:Swing	1d-2:1d-1
+IQ 13/13	30	Reaction:Speed	+1:6.25/7
+HT 11/13	10	Move(D:P:B)	6/10(8/10:8:--)
+
+bloodlust		-10
+squeamishness		-10
+overconfident		-10
+bad temper		-10
+stubborn		-5
+pirates code of honor	-5
+faint tiger striping	-1
+mood eyes (ocean)	-1
+mood swings		-1
+pronounced fangs	-1
+talks to nature		-1
+animal empathy		5
+attractive		5
+double jointed		5
+high pain threshold	10
+combat reflexes		15
+magery ii		25
+
+acrobatics		1 15
+animal handling		1 14
+climbing		1 16
+escape			1 15
+falconry		/ 14
+knife			1 14
+martial arts		
+-aikido			4 14
+-judo			2 13
+-karate			2 13
+health first aid	/ 12
+health vetrinary	1 15
+naturalist		1 10
+riding			/ 16
+sleight of hand		1 11
+spear 2H (+3/-1)	2 16
+stealth			1 15
+survival wilderness	1 12
+swimming		1 14
+throwing		2 13
+
+lend strength		1 H 13
+lend health		1 H 13
+minor healing		1 H 13
+major healing		1 V 12
+seek water		1 H 13
+purify water		1 H 13
+create water		1 H 13
+icy weapon		1 H 13
+calm animal		1 H 13
+control mammal		1 H 13
+control bird		1 H 13
+summon animal		1 H 13
+speak to animal		1 H 13
+shapeshift: tiger	1 V 12
+
+2H spear th+3,imp, 80s
+L knife th,sw-2, 40s
+2 daggers th-1,imp 40s continual light - 4 days
+icy weapon pen:+2
+redtail hawk & gear 150s
+studded leather armor 200s
+purse - 1310s
+garments - 3 tunics, belt, cloak, leggings, l.gloves, satchel, boots, shoulder harness 250s
+gear - grappling hook, fast saddle mount + tack & gear, 50 yards rope, 1 healing potion, 2 wineskins magic water, 2pt powerstone, rations - 20 days

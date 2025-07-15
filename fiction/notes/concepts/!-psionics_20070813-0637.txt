@@ -1,0 +1,212 @@
+Psionics
+
+* notes date back to 1988, review and revise in detail
+
+There are an inconceivable number of forms and expressions of power. One of the strangest and perhaps most disconcerting of them all is the innate power of the psyche. The power of will. Psychic power has eternally rode along the cutting edges of skeptical disbelief despite often being one of the most personal and most commonly experienced forms of the supernatural. For the most part, psychic abilities tend to enable the mind to directly perceive its environment and to effect it, equally directly. 
+
+In a world with a low dynamic, such abilities are weak and easily explained away. Only a uniquely strong psyche would be capable of manifesting psychic phenomena with any degree of veracity. While in our world and in our lives, most psychic phenomena are spontaneously irregular and disconcertingly vague, the potential to develop them to substantial levels is alluringly possible. There need only be a cause. Some kind of event or catalyst to jog the mind from its mundane course, forcing it to draw upon its subtle but powerful reserve and take direct action in life’s affairs. Or for the mind to seize the opportunity presented by the incidental disruption of the integrity of its assumed reality. Once the mind managed to demonstrate the possibility to itself, then it would be able to focus on and develop its potential to the point where the power acquired a reality in its own manifestation. Over the course of the popularization of psychic powers in art and fiction, names have been spawned to describe or define the powers of the mind. However, psionics is just psionics. The essence of all psionics is the ability to perceive directly with the mind, and the capacity to focus its will to such a degree that it effects its environment. Intuition and intent. The process of thought is innately dependent on the mind’s intuition of what it is trying to express or define. The mind uses the force of its intent to command the flesh in all of its actions. Most people have limited the extent of their psychic existence to these small arenas. 
+
+The development of psionic abilities can be accomplished by focusing on particular aspects of psychic application or even by practicing specific disciplines of these aspects in order to perform nearly limitless feats and miracles. The psionic aspects are ESP, (extra sensory perception) the ability to perceive directly with the mind; PK, (psychokinesis) the ability to effect the environment directly with the mind; TP, (telepathy) the ability to communicate and interact directly with other minds; AP, (aurapathy) the ability to directly effect or control psionic power manifested by other minds; BK, (biokinesis) the ability to control, effect and manipulate living matter without inadvertently harming or killing it; and TPT, (teleport) the ability to displace matter, navigate higher spatial dimensions and achieve instantaneous or unhindered movement. There must be a significant and valid reason for any being to have psionic powers. If one is exposed to the possibility, or better yet, given proof, it is reasonable to surmise that the character had reason to develop similar abilities. If a character was never made to believe that such abilities did not exist, it is feasible that she may have developed them on her own if she ever had sufficient reason to have ever needed them enough to have become dependent or accustomed to using them. Any character subjected to sufficient trauma such as with life threatening situations, or mind threatening situations, may have had cause to manifest some strange psychic phenomena sufficient to instill them with profound faith in the existence of such powers. Whatever the cause, even characters who have psionic abilities will be very unlikely to have more than a handful of disciplines which they managed to teach themselves through trial and error. It is conceivable that other psionics exist from whom a character might have learned, but that is even less likely. Succeeding in mastering psionic powers on one’s own is a feat of considerable merit, but having a teacher makes it too easy and worth far less in terms of experience, if not having a negative effect on it all together.
+	
+catalyst	
+Manifestation of psionic power can occur in times of great stress and trauma, as when reacting to extreme psychic shock. Such a shock can come from confronting the yawning abyss of the unknown, reacting to neurochemical trauma caused by the assimilation of toxic substances or extremely high (near lethal) dosages of drugs or poisons. Almost without exception, exposure to intense psionic energy fields or especially direct psychic attack will serve to catalyse psychic potential. Other causes of psionic manifestation include near death or imminant death experiences, losing one’s grip on sanity due to severe fright, and -stopping the world.Ó Stopping the world covers any bizzare activity which serves to disrupt the continuity of one’s reality thus exposing one directly to the unknown. That is, if for any reason, the mind ceases one or more of the following, its awareness, its constant interpretation, its perception of structure, or it loses its grip on structure itself.
+
+seizure	
+Once exposed to a catalyst, the mind has an oppertunity to seize power over its psychic potential. In general, this involves making a critical or natural critical success on a psyche test or similarily criting on the use of an actual psionic ability. A character making a critical save roll versus psychic attack with a critical success is also gains the oppurtunity to seize power.
+
+salvaging	
+Often, the use of a psionic ability is not entirely successful. When an attempt is failed catastrophically though, the struggle that the character must go through to regain control and salvage their mind from the consequences of their fumble has certain rewards. A character saving against a direct psionic assault reacts to the effect of the attact as if it were a fumble on his part, in order to save. Take the severity of the attempted feat, modified by the character’s idea roll. The amount by which the idea roll is made is the percent by which the feat magnitude is reduced. Then the character or characters roll a contest of power to control the event and or neutralize it. Failure to control the effect means that they are totally subject to the effect of the power. Success allows the character the opertunity to seize power and raise their Psi score.
+
+optimizing and growth	
+To succeed in seizing or salvaging psionic power means that the character has earned the right to expand their psionic potential. That is, the experience has caused them to grow. This growth occurs on two fronts. First, the event is recorded in the profile and rated according to the immensity or severity of the event and used to modify the character’s overall experience. Second, the event provides modifiers to raise the psi score a percent equal to the success of the idea roll from the save. This is the part you seized from the contest, and which allowed you to succede in the attempt. This new psi rating will be drawn out of your experience, but the profile modifier for the event should make up for this is some part. Always remember to take note of such success and events so that you can apply them to your character record!
+
+Because all psionics make life easier, they are all drawn out of experience. The psi base is normally rated at 1.0, with each tenth of a point above that costing a hundred experience. Like all applied abilities, like skills, psionic aspect abilities and disciplines all cost experience, one for one. For the untrained use of psionic ability, only the base psi power is used, while characters trained in aspects can spend magnitude to raise their effective power equal to the rating of the aspect. Aspects alone effect power. Both aspects and disciplines control effect - some disciplines might substitute or augment power as a special effect, such as looping magnitude in a manner similar to base psi. In general, disciplines are what define the use of psi power and the special effects of their use. In their descriptions, it should define whether or how disciplines allow power to be used more efficiently, thus at a lower cost in magnitude. In general, a point of magnitude is equal to a point of psi, per second of execution. Psi, however, is constant and abilities performed within the limit of the psi base can be maintained almost indefinitely but for certain circumstances which would interfere. 
+	In most cases, the power being used is divided by the value of the of the object or subject it is to be used on to determine the requirements for the effect to occur. Psionic effects are still governed by the standards of measure in the game, so translate directly as power in any game mechanic equation. Psi can be used to effect mass, temperature, velocity, motion, and in certain cases, dimension. See the appropriate equations for using psionics in any of these or similar manners. Psi may be accellerated by the expendature of magnitude in order to cause accelleration of the psionic effect. To psionically move an object, a 98 kg person for example, say at a psi power of 10, (10 divided by 98 being about 0.102040...) would cause him to move about a tenth of a meter in a second. If this were accellerated at the rate of the power, which is the most you can push it, unless you have an aspect rating higher than that (but no higher than the rating), it would accellerate at a rate of one decimeter a second: one decimeter in the first, two in the next, three in the third, for a total of six decimeters in three seconds for a cost of thirty magnitude. Training is very valuable in that aspect ratings are cheaper than psi ratings, though magnitude costs can be expensive. However, magnitude is only spent too accellerate and decellerate, once you have reached the speed you desire, you can maintain it for free. Magnitude tends to recover fairly quickly on a successful psyche test a minute, your base magnitude is restored to you. If you fail, you do not recover that minute. If you fumble, you will not be able to recover again for one Om of time, or, for an hour the first fumble, a day for the second fumble, and so on, until you succeed. 
+	In general, you only pay the differnece between your psi and the applied experience of your psionic aspect when you push for more power. To psionically move an object, that 98 kg person for example, say at a psi power of 100, with a PK of 1000 (1000 divided by 98 being about 10.2040...) would cause him to move about ten meters in a second at a cost of 900 magnitude a second.  To accellerate would cost an additional 1000 a second raising it to 1900 a second. To acheive 800 m/s would take 80 seconds and 152,000 magnitude. Your average psionic is only going to be able to keep this up for a few minutes before burining out. Certain disciplines are more cost effecient for many applications, and so are very valuable. A list of disciplines detailing their advantages and applications can be found in the appendices. New disciplines should address the following:
+
+name	what it is called - relative to other dicsiplines			aspect	
+								prerequisites
+description	what it does and how it works
+mechanics	any effects on game mechanics
+
+Orders of Magnitude (Om)
+
+Om relational
+Distinctive spheres of reletive familiarity from the perspective of the individual.
+
+Om	familiarity	as if...
+0	own soul		...of one’s own essence
+1	own self		...of one’s own psyche or mind
+2	intimate other	...lovers, loved ones, intimite friends / enemies
+3	acquaintance 	...of casual / superficial interaction
+4	icon 		...seen, recognizable, but not interacted with
+5	cypher 		...never interacted, presumed to exist
+6	foreign 		...unfamiliar in dress, habit...
+7	alien 		...unfamiliar in appearance, nature, design...
+8	abstract 		...lacking coherent, recognizable features
+9	unknown 		...unregarded, unexperienced
+10	unknowable 	...indefinable, unrelatable 
+
+Om situational
+Distinctive spheres of reletive accessibility from the perspective of the individual.
+
+Om	time		range (spherical:linear)
+0	instant		none: touch
+1	moment		touch: full reach
+2	hour		full reach: near horizon
+3	day		near horizon: far horizon
+4	week 		far horizon: planetary diameter
+5	month 		diameter as radius: to moon
+6	year 		moon orbital radius: to sun
+7	decade 		Planetery orbital radius: to Alpha Centuari 
+8	century	 	Sol/Alpha Centuari radial: edge, local group
+9	millennium  	local group sphere: galactic diameter
+10	epoch (age) 	galactic sphere: intergalactic
+11	era		intergalactic sphere: universal core
+12	aeon		universal sphere: ...
+
+
+ESP
+Sense 	.	
+Amplify 	.	
+Truesight 	.	
+Intuition 	.	
+Sense Danger	.	
+Combat Precog 	.	
+Precog 	.	
+Psychometry 	.	
+Clairvoyance 	.	
+Clairaudience 	.	
+Trace 	.	
+		
+
+PK 	.	
+Telekinesis TK 	.	
+Pyrokinesis PrK 	.	
+Cryokinesis CK 	.	
+Spectralkinesis SK 	.	
+Electrokinesis EK 	.	
+Levetation 	.	
+PK Shield 	.	
+
+PK / ESP 	.	
+PK Field 	.	
+PK Blast 	.	
+Spectral Illusion 	.	
+PK Blades 	.	
+Morphokinesis 	.	
+Silence 	.	
+SK Field 	.	
+EK Field 	.	
+Fission 	.	
+Fusion 	.	
+
+PK / BK 	.	
+Flight 	.	
+
+PK / ESP / TPT 	.	
+Protokinesis 	.	
+ 		
+
+BK 	.	
+Neurostatic 	.	
+Regeneration 	.	
+Resiliance 	.	
+Pain 	.	
+Healing 	.	
+Pheromones 	.	
+Drain	.	
+Invulnerability	.	
+Life support 	.	
+Stasis 	.	
+BK Blades 	.	
+		
+BK / ESP 	.	
+Tactile Illusion 	.	
+Control Metabolism	.	
+Evolution 	.	
+Replication 	.	
+Metamorphosis 	.	
+
+BK / TP	.	
+Probe 	.	
+Deathblock 	.	
+
+BK / TPT 	.	
+Unmember 	.	
+Mist metamorph 	.
+Disruption 	.	
+
+
+TP 	.	
+Astral Projection 	.	
+Empathy 	.	
+Empathic Projection 	.	
+Compulsion 	.	
+Sleep 	.	
+Sense Tag	.	
+Erase Tag	.	
+Telesense 	.	
+Telescan 	.	
+Telereceive 	.	
+Telesend 	.	
+Telestatic 	.	
+Telecontrol 	.	
+Mental Shield 	.	
+Mental Blow 	.	
+Mental Stab 	.	
+Mind-trap 	.	
+Mind-wipe 	.	
+Possession 	.	
+Presence 	.	
+
+TP / ESP 	.	
+Mental Illusion 	.	
+Mind-program 	.	
+Inconspicuousness 	.	
+
+TP / AP 	.	
+Mind-Swipe 	.	
+Rapport 	.	
+Meta-Concert 	.	
+
+TP / AP / TPT	.	
+Realm 	.	
+		
+
+AP 	.	
+Psi Static 	.	
+Psi Sense 	.	
+Psi Drain 	.	
+Psi Burn 	.	
+Psi Kill 	.	
+Psi Reflect 	.	
+Psi Resistance 	.	
+Psi Amplify 	.
+Psi Loop	.	
+Psi Absorb 	.	
+Psi Over-ride 	.	
+		
+
+TPT 	.	
+AutoPT 	.	
+ExoPT 	.	
+Disruption APT 	.	
+Disruption EPT 	.	
+Spatial Stasis 	.	
+Mist 	.	
+Noncorporeal 	.	
+Stasis 	.	
+Combat APT 	.	
+Ion APT 	.	
+Abort APT 	.	
+Dimensional APT 	.	
+Dimensional EPT 	.	
+Rift Blade	.	
+
+TPT / ESP 	.	
+TPT Trace 	.	
+Foldspace 	.	
+Null-shield 	.	
+Null-field 	.	
+	

@@ -1,0 +1,24 @@
+Based on Laff’s (2007) article, what are the pitfalls of rapid learning? How can you overcome these?
+
+Laff's (2007) article does not present a clear and direct summary of the pitfalls of rapid learning, so it's necessary to pick out the negatives from the body of the text; these are the ones I noticed:
+
+    *  Nobody’s stopping to take the time to train.
+    * Inadequate training regimen.
+    * Leaders fail to view training as a vital business component instead of a necessary evil.
+    * E-learning is acquiring a poor reputation in some circles because it is pressed into service without effective design.
+    * At its worst, rapid learning is just repackaged training manuals presented in an online format.
+    * Most e-learning is just text and multiple choice questions.
+    * An e-learning module may be designed with the best intentions and slick technology but it may fail to engage the learner.
+    * Learning consultants acknowledge that training materials are often unimaginative and fail to engage the user because they are the work of software designers, not instructional designers.
+    * Besides being dull, another frequent complaint lodged against training applications is their complexity for the end user.
+    * Analysts point to a lack of collaboration between designers, trainers, and end users.
+    * Additionally, instructional designers often focus too much on technological gimmicks instead of the end goal.
+    * Problems with poor presentation and delivery of materials.
+
+From this list of complaints, my first conclusion is that rapid learning fails because it tries to be overly convenient, a quick fix for a problem that needs to be addressed with greater attention. I cannot really argue with the desire for a training method that is fast and engaging, but I have to point out that a richer, more easily consumed and digested learning method is going to take considerable time, effort and money to develop because it is going to require a higher level of production and sophisticated forms of delivery. Learning content delivered using computers should be rich, responsive and high-resolution. It needs to take a page from advertising and entertainment, two industries that have made an artform out of capturing and holding people's attention--or working within the limits of people's attention span. It's also important for attention to be spent on the learning interface; we need to take advantage of computer technology to create a virtual learning environment that provides high-sensory stimulation, meshable and maleable content accessibility and manipulation. The real advantage of technology in learning is that it is capible of delivering learning content in accordance with the ways that people learn, but it needs to be taken that next step, where all the options are accounted for in the design allowing the student-user to select the presentation he or she is best able to engage with their full attention. Once again, I have to refer to the gaming industry, which provides players with detailed, interactive environments, customizable interfaces and infinitely arrangable modular content. 
+
+Tracy,
+
+It sounds like you understand exactly where I am coming from! I noticed way back in high school, when I was into the classic style of role-playing games, that I ended up learning a lot through situations that came up in games or in discussion of events or circumstances in games that players would get into debating to support their efforts in the game. When a situation came up that a person called on real world experience to deal with, they would essentially give the rest of the gamers a lesson on the subject that had to be complete and convincing enough to get everyone, and especially the game master, to agree with. I can remember stopping play for a few hours while we researched a topic under debate, and no one complained because they were interested in or completely invested in the outcome. I eventually became part of a group that designed their own role-playing game based on exhaustive study of physics, philosophy, history, sociology, chemestry, mythology, etc. That eventually inspired me to take an interest in computer based role-playing development, because a computer could be used to ensure that the game mechanics could be made highly realistic without distracting from play, and because it could support an extensive knowledge database for all of those times when inspiration or imagination struck and brought real-world knowledge and experience into  the game.
+
+If I had the money, time and other resources, and enough like minded game developers, I would go back to that old ambition and start developing games that challenged the mind while providing the action and adventure of classic and online RPGs!

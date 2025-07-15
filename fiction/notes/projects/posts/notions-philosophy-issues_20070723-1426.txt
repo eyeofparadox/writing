@@ -1,0 +1,45 @@
+Intellectual Property 
+Intellectual property is one of the most controversial ethical issues in
+the digital world. Before digital technology existed, illegally making and distributing a large
+number of copies of books, movies, or music was cost prohibitive, not to mention that the quality
+of the copies was poorer than the original. Now that books, movies, and music are available
+in digital format, anyone with a little know-how can make copies and distribute them over the
+Internet—worldwide. The ethical debate surrounding such practice is heated. Such practice also
+poses personal ethical dilemmas for us—whether to make or accept copies. You might argue
+that Madonna is not going to suffer great financial harm if you download her latest incarnation
+from a music-sharing site from which she won’t earn a penny. But, you might also argue, why
+shouldn’t Madonna earn her royalty—she created the work in the first place. Intellectual property
+infringement occurring over, or because of, IT has led to court battles (ever hear of Napster?)
+and might lead to new legislation.
+
+Freedom of Speech 
+The Internet has created a number of free speech issues. First, consider
+that free speech rights are not guaranteed around the world. Indeed, some countries use IT to
+ensure that their citizens cannot access certain Web sites. Second, a number of Web sites contain
+material that is objectionable to some people, such as racist comments and pornography. In 2002
+the Supreme Court ruled on a case that would have forced public schools and libraries receiving
+federal funds to use Internet filtering software to block certain Web sites on public computers
+that children can access. Arguing before the Court, the Free Speech Coalition asserted that the
+blocks would prohibit viewing of constitutionally protected material. Attorney General John
+Ashcroft, representing the U.S. government and advocates of the filtering, argued that blocking
+such sites was in the interest of protecting children in accordance with the Child Protection Act.
+The Court sided with the Free Speech Coalition, finding that such filters do violate free speech
+rights. [12, 13]
+
+Finally, there are some marketing companies that use mass electronic mail (junk e-mail) to
+reach potential customers. Most people who receive this mail do not want it. So a number of laws
+have been proposed to curtail the practice. However, some people argue that these laws violate
+free speech rights.
+
+Social Concerns 
+There are numerous social issues that have an ethical component in the
+digital world. For example, poorer people and those living in rural communities may not be able
+to access the Internet, which is a main requirement for living in the digital world. In addition,
+societies are struggling with problems such as online gambling.
+Throughout the book the ethical issues described above, and
+others, will be discussed in more detail. As you read the Focus on
+Ethical and Legal Issues boxes, consider your own ethical standards
+and the actions you would take in each situation.
+
+virtual presence protocol
+The basic infrastructure of web cameras and communications can be used to help establish telepresence in the office for telecommutors. This would include and require AV infrastructure added to network infrastructure, the designation of public and private domains with negotiable access privileges. Individual would be able to "roam" the office by accessing public AV nodes, or request entrance to private nodes, in order to utilize streaming AV to maintain a virtual presence in the office. A complete system would include private remote nodes using the same protocol. An advanced concept would involve a complete virtual environmental interface, an echo & reflection of the norm. 
