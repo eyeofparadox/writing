@@ -1,0 +1,13 @@
+{
+	"id": "tag-index",
+	"name": "Tag Index",
+	"version": "0.7.0",
+	"minAppVersion": "1.0.0",
+	"description": "Create a curated list of important tags to serve as meaningful entry points to your knowledge base.",
+	"author": "wenlzhang",
+	"authorUrl": "https://github.com/wenlzhang",
+	"fundingUrl": {
+		"Buy Me a Coffee": "https://ko-fi.com/f84556"
+	},
+	"isDesktopOnly": false
+}

@@ -1,0 +1,70 @@
+easy duplicate finder
+
+PC Crashed & Burned, Need my license reset #738291 Print  Edit
+Basic Ticket Information
+Ticket Status:	Closed
+Department:	General Inquiry
+Create Date:	06/01/2025 10:20 PM
+User Information
+Name:	David
+Email:	david.b.roberson@gmail.com
+Phone:	(916) 462-1041
+Ticket Details
+License Key:	YZG-FT9-2QT
+Operating System:	Windows 10
+
+Avatar
+David posted 06/01/2025 10:20 PM 
+I am repairing the laptop and restoring the apps I use. Due to the crash, I had no opportunity to deactivate EASY DUPLICATE FINDER.I am restoring data from multiple backups and need to be able to weed out the usual duplicates that produces.
+
+I'd really appreciate it!
+
+ Created by AvatarDavid 06/01/2025 10:20 PM
+Avatar
+David posted 06/01/2025 10:25 PM 
+I've added noreply@webminds-support.com to my safe email list.
+Avatar
+Ronald Smith posted 06/01/2025 10:28 PM 
+Hi David,
+
+Thanks for contacting us today. We have found and reset your license key [YZG-FT9-2QT ] and you should now be all set with the activation of Easy Duplicate Finder (EDF). Please be advised that this license had already expired 10-2-2023. Please download the most recent release before the expiration date in order to use the program on your machine here or you can renew here.
+
+We urge users to always renew as there have been a lot of enhancements and changes to the software. Let us know if you have any other questions or concerns.
+
+Kind Regards,
+Ron
+ Closed by AvatarRonald Smith with status of Closed 06/01/2025 10:28 PM
+Avatar
+David posted 06/01/2025 11:07 PM 
+Well, that worked out. Thank you for the quick resolution of this request! Oficially closed.
+ Reopened by david.b.roberson@gmail.com 06/01/2025 11:07 PM
+ Closed by AvatarRonald Smith with status of Closed 06/02/2025 8:49 AM
+ 
+
+I am trying to transfer my licenst to a new laptop #507700 Print  Edit
+Basic Ticket Information
+Ticket Status:	Open
+Department:	General Inquiry
+Create Date:	11/04/2025 10:11 PM
+User Information
+Name:	David
+Email:	david.b.roberson@gmail.com
+Phone:	(916) 462-1041
+Ticket Details
+License Key:	YZG-FT9-2QT
+Operating System:	Windows 11
+
+Avatar
+David posted 11/04/2025 10:11 PM 
+This is a follow up of `PC Crashed & Burned, Need my license reset #738291`
+It took a while to get a permanent replacement for the dead computer, and I was using EDF on ao older laptop to consolidate backups and recoveries. Now I am going thru all the data I migrated to my new laptop and once more found duplicates in the process. I tried to remove the license from the temporary system only to have it fail.
+
+The temp has Windows 10 but the new one is Windows 11
+
+I did download the installer for a version prior to the expiration date, but am stuck on freeing up the license. While I'm asking for help with that, I might as well ask: Do I also need to request a different product key.
+ Created by AvatarDavid 11/04/2025 10:11 PM
+Avatar
+David posted 11/04/2025 10:22 PM 
+Also, I have a new phone: 916-250-7080
+
+I tried to update my profile, but that only seems to allow for changing my password, which I don't want at the moment.

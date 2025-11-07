@@ -1,0 +1,1061 @@
+Subject: [Fwd: JAMDAT Mobile announces executive appointments]
+Date: Mon, 17 Sep 2001 11:00:19 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: JAMDAT Mobile announces executive appointments
+Date: Mon, 17 Sep 2001 11:25:21 -0400
+From: mprindle@tsicomm.com
+To: mprindle@tsipr.com
+
+JAMDAT Mobile Adds Two Established Business Leaders to Team of Interactive
+Entertainment Executives
+
+Former Vice President of Sprint PCS and Former Senior Executive of International
+Operations for ESPN Internet Group Join
+Patricof & Co Ventures Backed Company
+
+Los Angeles, CA, September 17, 2001 -- JAMDAT Mobile, a wireless entertainment
+applications and technology company, today announced that the company has added
+two senior executives to its team.  Thomas Ellsworth, formerly with Sprint PCS,
+has joined the company as executive vice president of marketing and corporate
+development. Minard Hamilton, formerly with ESPN Internet Group, will serve as
+JAMDAT Mobile's senior vice president of corporate sales. As JAMDAT further
+expands its library of enabling technologies, Ellsworth will focus on
+positioning, strategy and marketing while Hamilton will focus on securing
+partnerships with both national and international wireless carriers. JAMDAT
+currently has successful partnerships with leading carriers including Sprint
+PCS, AT&T Wireless, Verizon, ALLTEL, Qwest and Telus/Clearnet.
+
+"Ellsworth and Hamilton bring highly seasoned and relevant industry expertise to
+JAMDAT's senior management team," said Mitch Lasky, CEO of JAMDAT.  "I am
+confident that their contributions will be immediate and significant as we
+deepen relationships with leading carriers and developers and further develop
+our industry leading wireless web technologies and entertainment application
+content."
+
+Ellsworth served as vice president of incubator development and senior director
+of business development at Sprint PCS's Business Development and Strategy group.
+Ellsworth began his tenure at Sprint PCS in 1996 as director of marketing where
+he co-developed the company's "Free and Clear" rate plan that featured free long
+distance and on-network roaming calls. Prior to joining Sprint PCS, Ellsworth
+held sales and marketing positions with California Amplifier, Inc. a satellite
+and terrestrial microwave component manufacturer and L.A. Cellular.  He received
+his Bachelor of Science degree in Business Administration and Marketing from
+California State University, Northridge and his M.B.A. from Pepperdine
+University.
+
+Hamilton was the general manager of international business for ESPN Internet
+Group (EIG), part of the Walt Disney Internet Group. Hamilton oversaw the
+building of businesses in markets in Latin America and Asia and the expansion of
+EIG's existing business in Europe.  Prior to joining EIG, Hamilton was a senior
+vice president at ESPN International, where he was responsible for programming,
+marketing and advertising sales at ESPN's international networks covering Asia,
+Latin America, the Middle East, Australia and Africa. Hamilton also served as
+vice president of International at Activision, Inc., a leading computer game
+publisher.  Before Activision, he was vice president of worldwide distribution
+and acquisitions at Roger Corman's Concorde-New Horizons, Inc., where he oversaw
+distribution and also produced several films. Hamilton earned an A.B from
+Princeton University and an MBA from the Anderson Graduate School of Management
+at UCLA.
+
+About JAMDAT Mobile
+Los Angeles-based JAMDAT Mobile (www.jamdatmobile.com) is a leading provider of
+mobile entertainment products, services and enabling technologies to wireless
+carriers, independent developers and publishers around the world.  Founded by
+interactive entertainment executives from Activision (NASDAQ: ATVI) and backed
+by wireless infrastructure leaders Qualcomm (NASDAQ: QCOM), Sun Microsystems
+(NASDAQ: SUNW), and Intel (NASDAQ: INTC), JAMDAT is at the forefront of the
+technological and creative evolution in wireless entertainment.  JAMDAT has
+created a suite of carrier-grade enabling technologies based on open standards
+such as Java, BREW, IPDR, J2ME and XML that allow applications to be hosted,
+provisioned, tracked and authenticated across all devices and networks without
+requiring the adoption of a standardized application delivery platform.
+
+JAMDAT has proven the effectiveness of its middleware technologies with
+Gladiator, one of the most successful multiplayer mobile games in the world,
+attracting over 950,000 unique users and generating over 14 million minutes of
+airtime since its October 2000 launch.  JAMDAT's unique combination of creative
+and technological expertise has positioned the company as the preferred mobile
+entertainment partner for wireless carriers, infrastructure companies,
+independent developers and publishers.
+
+# # #
+
+Contact:
+Mark Prindle/Lori Mezoff
+TSI Communications for JAMDAT Mobile
+212 696 2000
+mprindle@tsicomm.com/lmezoff@tsicomm.com
+
+Subject: [Fwd: WWII Online update - ranking system and naval components added]
+Date: Mon, 17 Sep 2001 11:01:00 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: WWII Online update - ranking system and naval components added
+Date: Mon, 17 Sep 2001 10:25:25 -0400
+From: "Michele Fortier" <mfortier@strategyfirst.com>
+To: <mfortier@strategyfirst.com>
+
+On behalf of Strategy First, I would like to extend my deepest condolences
+to all those that have been injured or who have lost a loved one in the
+recent tragedies that occurred in New York, Washington and Pennsylvania.  I
+think I speak for all of us when I say, our thoughts and prayers are with
+all Americans in this terrible time.
+
+****************************************************************************
+****************************************************************************
+*************
+For Immediate Release
+
+DETAILS OF MAJOR UPDATE FOR WWII ONLINE RELEASED, 30 DAY FREE TRIAL SET TO
+START
+
+Dallas, TX - Playnet Headquarters - September 17th, 2001 - Cornered Rat
+Software's development team are releasing details of the next major update
+to its MMOG, WWII Online which includes additional RPG elements and the
+first naval vehicles available in the "Blitzkrieg" theater. The 30 day free
+trial period will follow this release (v1.2.5.)
+
+Version 1.2.5 provides players the beginnings of a career advancement path
+for their characters. All players will begin with the rank of Private with
+the ability to be promoted through 13 levels of rank up to General. Chris
+Sherland, WWII Online Producer, outlines this new feature and others as
+building blocks for future updates.
+
+"Ranks are RPG 'levels' that will be the basis for players getting their
+hands on more game functionality. Right now (v1.2.5) it relates to posting
+custom missions. As players gain rank they will have more points available
+to post missions. The rank system in 1.2.5 starts players on a character
+development path which will increase over time in depth, complexity and
+additional features."
+
+1.2.5 offers new vehicles and weapons to players including the German Panzer
+II tank, anti-aircraft installations and patrol boats for river combat and
+English Channel crossings. The Panzer II is a lightly-armored but powerfully
+armed Axis tank featuring a rapid-fire cannon, 30 caliber machine gun and a
+top speed of 40 kph. This tank will be a formidable addition for the Axis
+players.  The British Riverine Patrol boat, the "Fairmile Model B" is now
+available as a multicrew-capable naval vessel with anti-tank, anti-aircraft
+and anti-personnel weapons and will be used primarily to patrol western
+European rivers. The boats will also be capable of transporting troops to
+different locations. Axis players will use "captured" British boats and fly
+the Axis flag until the introduction of additional naval vessels in future
+versions.
+
+"The addition of these patrol boats opens up all-new areas of gameplay and
+is just a taste of the combat to be featured in the evolution of the naval
+segment of WWII Online as part of a subscription to 'Blitzkreig'.
+
+Also featured in 1.2.5 are additional terrain elements including dozens of
+new towns and villages such as Dover and Calais, river docks and AI
+controlled anti-aircraft installations surrounding defended positions.
+Another updated feature in this release is the increased number of enterable
+buildings in large towns and cities.
+
+Finally, the release of 1.2.5 provides the CRS development team the ability
+to finalize the persistent world host providing game play to thousands of
+players in a single world. This update is not part of the 1.2.5 client
+upgrade but rather is a host-side update, which has been under testing for
+several weeks, and will become the primary gameplay environment. In addition
+to the persistent world host, an overflow world used for training, special
+events and for those times when the persistent world host is at player
+capacity will be offered.
+
+Following the successful release of 1.2.5 Playnet.com will begin the 30 day
+free trial, which has been suspended since the launch of the game in June.
+Expectations are that the 30 day free trial will begin the week of September
+9th with paid subscriptions going into effect the week of October 7th.
+
+"We wish to thank the thousands of players who have supported our small team
+since June and we welcome new and current players to experience the added
+features of this major update to the World War II Online virtual
+experience."
+
+                                                                        -30-
+
+For more information contact:
+
+Michele Fortier
+Public Relations Representative
+Strategy First Inc.
+147 St. Paul W. Suite 300
+Montreal, Quebec H2Y 1Z5
+(514) 844-3040
+mfortier@strategyfirst.com
+www.strategyfirst.com
+
+Subject: [Fwd: FW: Empire of the Ants has a new patch]
+Date: Mon, 17 Sep 2001 11:01:10 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: FW: Empire of the Ants has a new patch
+Date: Mon, 17 Sep 2001 10:27:44 -0400
+From: "Michele Fortier" <mfortier@strategyfirst.com>
+To: <mfortier@strategyfirst.com>
+
+For Immediate Release
+
+Empire of the Ants has a patch
+
+Montreal, Quebec.  September 17th, 2001 - Strategy First and Microids
+announced that they have released a patch that fixes a bug found in the
+tutorial of their recent release, Empire of the Ants.  The patch can be
+downloaded from the Microids web site, www.microids.com.
+
+Empire of the Ants, released this summer, is a unique real-time strategy
+game that immerses players in the role of an up-and-coming ant commander
+that has been given the task to oversee the welfare and expansion of a
+colony of russet ants.  Each player must build up their forces, guard their
+anthill, collect food and building materials, and maintain and grow their
+colony of ants.
+
+For each mission, players are given specific objectives at the start of each
+level, which can vary from collecting of food units to killing the enemy.
+Multiplayer mode allows for up to 8 players over LAN or Internet to take
+part in multiplayer skirmishes with a wealth of options and play styles;
+such as allowing predators into the game area or selecting the Queen into
+play, who must then be defended.
+
+For more information log onto www.microids.com or www.strategyfirst.com
+
+About Microïds
+Founded in 1985 by its current chairman, Elliot Grassiano, Microïds develops
+and distributes video game software for PCs and games consoles throughout
+the world. In 1998, MICROÏDS opened a development studio in Canada
+(Montreal) where the company takes the advantage of both the experience and
+the North American “game” culture. The company undertakes the integration of
+its own distribution by creating successively a first subsidiary, MICROÏDS
+ITALIA, then MICROÏDS LTD UK and MICROÏDS DISTRIBUTION FRANCE in 2000.
+Microïds currently has over 170 members of staff, 90 of which are overseas
+and has achieved a turnover of 14.88 Millions Euros in 2000, which 63% have
+been made from foreign sales.
+
+About Strategy First
+Strategy First Inc. is a leading developer and worldwide publisher of
+entertainment software for the PC.  Founded in 1990, the company has grown
+rapidly, publishing major games in the industry and simultaneously
+developing its own in-house titles such as O.R.B., Disciples II, Nexagon:
+The Pit and Zero-G Marines.  After winning numerous awards for games such as
+Disciples: Sacred Lands, Europa Universalis, Kohan: Immortal Sovereigns and
+Steel Beasts, Strategy First continues to push the gaming envelope with its
+own groundbreaking titles, while maintaining its reputation as a unique
+alternative for independent developers seeking to market their games to a
+worldwide audience.
+
+                                                                                -30-
+Michele Fortier
+Public Relations Reprensentative
+Strategy First Inc.
+147 St. Paul W. Suite 300
+Montreal, Quebec H2Y 1Z5
+(514) 844-3040
+mfortier@strategyfirst.com
+www.strategyfirst.com
+
+Subject: [Fwd: Activision Press Release: Activision & Quiksilver Partnership
+     Annoncment]
+Date: Mon, 17 Sep 2001 17:52:46 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: Activision Press Release: Activision & Quiksilver Partnership Ann
+     oncment
+Date: Mon, 17 Sep 2001 12:27:37 -0700
+From: pradmin <pradmin@activision.com>
+To: "'launcelot@cloakandgamer.com'" <launcelot@cloakandgamer.com>
+
+Launce Haught
+Cloak and Gamer
+5273 Irene Way
+Livermore, CA  94550
+
+FOR IMMEDIATE RELEASE                   For Information, Contact:
+                                                        Ryh-Ming C. Poon
+                                                        Sr. Publicist, Corp.
+Communications
+                                                        Activision, Inc.
+                                                        (310) 255-2226
+                                                        cpoon@activision.com
+
+ACTIVISION® AND QUIKSILVER FORM WORLDWIDE STRATEGIC PARTNERSHIP FOR
+ACTIVISION O2(tm) ACTION SPORTS BRAND
+
+Industry Leaders Join Forces To Cross Promote Action Sports Lifestyle
+
+ Santa Monica, CA.  -- September 17, 2001  -- Activision, Inc. (Nasdaq:
+ATVI), the number one publisher of action sports games worldwide, and
+Quiksilver, Inc. (Nasdaq: ZQK), the world's largest boardriding apparel and
+lifestyle company, today jointly announced that they have formed a strategic
+alliance that will cross-promote Activision's Tony Hawk's Pro Skater
+franchise and Kelly Slater's Pro Surfer video game through a number of
+innovative retail, clothing, event and in-game sponsorships.  The long-term
+distribution and co-marketing partnership begins this November with the
+launch of two Activision O2 games -- Tony Hawk's Pro Skater(tm) 2x and Tony
+Hawk's Pro Skater 3.
+
+The alliance reinforces the Activision O2 brand in the action sports market
+by providing Activision with the opportunity to distribute their games
+through skate, surf, and boarding retailers, further strengthening the
+Activision O2 brand among the core demographic.  Under the terms of the
+agreement, Quiksilver will be the featured boardriding clothing brand in the
+Activision O2 games which combined are expected to deliver more than 1
+billion consumer impressions worldwide for the Quiksilver brand.  In
+addition to in-game branding and distribution, the agreement includes
+worldwide co-marketing activities, national gaming competitions, in-store
+game kiosks and POP materials in Quiksilver Boardriders Club retail stores,
+local market consumer promotions and cross-promotional advertising
+campaigns.
+
+"Quiksilver is the perfect strategic partner for the Activision O2 brand,"
+said Will Kassoy, senior director of global brand management, Activision.
+"Like Activision, the company is deeply rooted in the action sports
+lifestyle and shares our goal of delivering top quality, authentic products
+that enthusiasts know and trust."
+
+"The partnership between Quiksilver and Activision came about quite
+naturally," said Taylor Whisenand, director of marketing for the Quiksilver
+brand in North America.  "Tony Hawk and Kelly Slater are Quiksilver's two
+most globally recognized athletes.  When the best skateboarder and best
+surfer in the world are working with a company as successful as Activision,
+we will likely jump at the chance to be involved."
+
+About Quiksilver, Inc.
+
+Quiksilver designs, produces and distributes clothing, accessories and
+related products for active-minded people and develops brands that represent
+a casual lifestyle - driven from a boardriding heritage.  Quiksilver's
+authenticity is evident in its innovative products, events and retail
+environments across the globe.
+
+Quiksilver's primary focus is apparel for young men and young women under
+the Quiksilver, Quiksilver Roxy, Raisins, Radio Fiji and Hawk Clothing
+labels.  Quiksilver also manufactures apparel for boys (Quiksilver Boys and
+Hawk Clothing), girls (Teenie Wahine and Raisins Girls), men (Quiksilver
+edition and Fidra) and women (Leilani and Alex Goes), as well as snowboards,
+snowboard boots and bindings under the Lib Technologies, Gnu, Supernatural
+Manufacturing and Bent Metal labels.  Quiksilver's products are sold
+throughout the world, primarily in surf shops and specialty stores that
+provide an outstanding retail experience for their customers.
+
+About Activision, Inc.
+
+Headquartered in Santa Monica, California, Activision, Inc. is a leading
+worldwide developer, publisher and distributor of interactive entertainment
+and leisure products.  Founded in 1979, Activision posted revenues of $620
+million for the fiscal year ended March 31, 2001.
+
+Activision maintains operations in the U.S., Canada, the United Kingdom,
+France, Germany, Japan, Australia, and the Netherlands.  More information
+about Activision and its products can be found on the company's World Wide
+Web site, which is located at <http://www.activision.com/>.
+
+The statements contained in this release that are not historical facts are
+"forward-looking statements."  The Company cautions readers of this press
+release that a number of important factors could cause Activision's actual
+future results to differ materially from those expressed in any such
+forward-looking statements.  These important factors, and other factors that
+could affect Activision, are described in Activision's Annual Report on Form
+10-K for the fiscal year ended March 31, 2001, which was filed with the
+United States Securities and Exchange Commission.  Readers of this press
+release are referred to such filings.
+
+###
+
+
+
+Subject: [Fwd: Digital Leisure Cancels Release of Crime Patrol in Respect of Last
+     Week's Trage]
+Date: Tue, 18 Sep 2001 10:26:18 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: Digital Leisure Cancels Release of Crime Patrol in Respect of Last Week's Trage
+Date: Tue, 18 Sep 2001 08:17:12 -0700
+From: "Jaime Schultz" <jaimes@digitalleisure.com>
+To: <launcelot@cloakandgamer.com>
+
+Good morning,
+
+The following press release was put out on the wire by Digital Leisure this morning and I wanted to pass it on to you personally so that you are all aware of the events occuring at Digital Leisure.
+ I would also like to take this opportunity to personally send my prayers and wishes to everyone affected by the horrific events that have taken place.
+
+ "We all take different paths in life, but no
+  matter where we  go, we take a little of each other everywhere."
+Jaime
+
+Jaime Schultz
+Media Relations
+Digital Leisure Inc.
+33 Cedar Ridge Road
+Gormley, ON L0H 1G0
+jaimes@digitalleisure.com
+www.digitalleisure.com
+ICQ#66863126
+905-888-9550 x76
+
+FOR IMMEDIATE RELEASE                                       Company Contact: Jaime Schultz
+September 18, 2001                                                Digital Leisure Inc.
+                                                                          jaimes@digitalleisure.com
+                                                                  www.digitalleisure.com
+
+        Digital Leisure Cancels Release of Crime Patrol in Respect of Last Week's Tragedy
+
+Video Game's Subject Deemed Not Appropriate after Last Week's Terrorist Attacks
+
+GORMLEY, Ontario, Canada - September 18, 2001- As America and its neighbors unite in the recovery from terrorist attacks that have shaken and changed our world, Digital Leisure has decided to cancel its upcoming release of Crime Patrol.  The game places players in the role of a police officer stopping criminals - including drug dealers, bank robbers, car thieves, and in the final level, terrorists.
+
+Although the original laserdisc arcade game, Crime Patrol, was produced and released in the early 1990s by American Laser Games, the recent terrorist attacks have caused Digital Leisure executives to put the game's release on indefinite hold.  "In light of last week's events, we feel that the release of Crime Patrol may serve as a sad reminder of the attacks on New York and Washington," said Elizabeth Foster, president of Digital Leisure.  "We have immediately switched our focus to producing Who Shot Johnny Rock?, a  detective game set in the Roaring 20's of Chicago which we hope to release this fall."
+
+The Staff of Digital Leisure and their families are deeply saddened by the horrific events that have occurred.
+Our prayers and thoughts are with everyone affected by this tragedy.
+
+Contact:                Digital Leisure Inc.
+                Jaime Schultz, 905/888-9550 x76
+                jaimes@digitalleisure.com
+                http://www.digitalleisure.com
+
+Subject: [Fwd: Shaun Palmer's Pro Snowboarder Music Announcement]
+Date: Tue, 18 Sep 2001 19:51:39 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: Shaun Palmer's Pro Snowboarder Music Announcement
+Date: Tue, 18 Sep 2001 12:51:58 -0700
+From: pradmin <pradmin@activision.com>
+To: "'launcelot@cloakandgamer.com'" <launcelot@cloakandgamer.com>
+
+Launce Haught
+Cloak and Gamer
+5273 Irene Way
+Livermore, CA  94550
+
+FOR IMMEDIATE RELEASE                   For Information, Contact:
+                                                        Michelle Nino
+                                                        Director, Corp.
+Communications
+                                                        Activision, Inc.
+                                                        (310) 255-2508
+                                                        mnino@activision.com
+
+ACTIVISION® ANNOUNCES ECLECTIC SOUNDTRACK FOR
+SHAUN PALMER'S PRO SNOWBOARDER(tm)
+
+Santa Monica, CA  -- September 18, 2001  -- From hardcore punk to heavy
+metal to alternative rock, the high-energy tracks featured in Shaun Palmer's
+Pro Snowboarder(tm) will take gamers' virtual boarding experience to new
+heights.  Hand-picked by snowboarding legend Shaun Palmer, the music, like
+the rest of the game, is an authentic reflection of the snowboarding
+culture.  Shaun Palmer's Pro Snowboarder will be available for the
+PlayStation®2 computer entertainment system, Nintendo® Game Boy® Advance and
+Nintendo® Game Boy® Color this fall and will feature the following artists
+and tracks:
+
+Spineshank  - "New Disease"
+Static X - "This Is Not"
+Alien Ant Farm - "Courage"
+Orange 9mm - "When You Lie"
+Papa Roach - "Dead Cell"
+Shootyz Groove - "Mad For It"
+Insolence - "Natural High"
+Stereomud - "Don't Be Afraid"
+Powerman 5000 - "Bombshell"
+Godhead - "Inside You"
+Slayer - "Here Comes The Pain"
+Supersuckers - "The Evil Powers of Rock 'n' Roll"
+Pantera - "Mouth For War"
+
+Shaun Palmer's Pro Snowboarder(tm) is real life racing and freestyle
+snowboarding featuring living legend and six-time Winter X-Games(tm) gold
+medallist Shaun Palmer and nine of the biggest names in the sport.  Players
+race down the slopes of real world locations pulling hundreds of authentic
+trick combos.  The game has expansive interactive environments allowing
+players to not only explore hidden and secret areas, but stick tricks off
+anything in sight.  Immediately playable yet challenging, it is a
+competitive, authentic and aggressive snowboarding game that will keep even
+the most hardcore snowboarders and gamers hyped.
+
+Headquartered in Santa Monica, California, Activision, Inc. is a leading
+worldwide developer, publisher and distributor of interactive entertainment
+and leisure products.  Founded in 1979, Activision posted revenues of $620
+million for the fiscal year ended March 31, 2001.
+
+Activision maintains operations in the U.S., Canada, the United Kingdom,
+France, Germany, Japan, Australia, and the Netherlands.  More information
+about Activision and its products can be found on the company's World Wide
+Web site, which is located at www.activision.com.
+
+The statements contained in this release that are not historical facts are
+"forward-looking statements."  The Company cautions readers of this press
+release that a number of important factors could cause Activision's actual
+future results to differ materially from those expressed in any such
+forward-looking statements.  These important factors, and other factors that
+could affect Activision, are described in Activision's Annual Report on Form
+10-K for the fiscal year ended March 31, 2001, which was filed with the
+United States Securities and Exchange Commission.  Readers of this press
+release are referred to such filings.
+
+###
+
+
+
+Subject: AOTC review
+Date: Wed, 19 Sep 2001 13:27:18 +1000
+From: "TigerLily - Kelly Ballard" <tigerlily@cloakandgamer.com>
+To: <avmorgan@cloakandgamer.com>
+
+Launce forgot to forward this on to you.  In any case, hopefully the
+attached log is understandable to anyone who decides to read it on C&G, if
+not fix it up then send it back to me and I'll put it on the site.
+
+toodle-loo... (bye bye)
+
+Kelly aka TigerLily
+http://www.cloakandgamer.com
+
+----- Original Message -----
+From: "Launce Haught" <launcelot@cloakandgamer.com>
+To: "TigerLily - Kelly Ballard" <tigerlily@cloakandgamer.com>
+Sent: Wednesday, September 19, 2001 1:03 PM
+Subject: [Fwd: AOTC review]
+
+> Dave crank this into a releasable item and then bang this on to the
+> site...
+>
+> --L
+>
+
+    ---------------------------------------------------------------------
+                      Name: AOTC review.eml
+   AOTC review.eml    Type: Microsoft MHTML Document 5.0 (message/rfc822)
+                  Encoding: 7bit
+
+Subject: [Fwd: News - Former Sega Executive Naohiko Hoshino Joins Criterion
+     Software Japan]
+Date: Thu, 20 Sep 2001 10:12:39 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: News - Former Sega Executive Naohiko Hoshino Joins Criterion Soft
+     ware Japan
+Date: Thu, 20 Sep 2001 17:11:23 +0100
+From: Mitra Faulkner <mitra@csl.com>
+To: Mitra Faulkner <mitra@csl.com>
+
+FOR IMMEDIATE RELEASE:
+
+Press Contacts:
+
+Japan -     Akiko Iwagaki, Criterion Software Japan, +81 (0) 3 5731 5380 -
+akikoi@csl.com
+
+USA -        Steve Smith, Criterion Software Inc., +1 512 478 5605  -
+steves@csl.com
+
+Europe -    Mitra Faulkner, Criterion Software, +44(0) 1483 406 312 -
+mitra@csl.com
+
+
+
+    FORMER SEGA EXECUTIVE NAOHIKO HOSHINO JOINS CRITERION SOFTWARE JAPAN
+
+            Games industry veteran spearheads expansion in Japan
+
+Tokyo, Japan 20th September 2001 – Criterion Software Limited has appointed
+ex-Sega Executive Mr. Naohiko Hoshino to the post of Managing Director of
+
+Criterion Software Japan. Mr. Hoshino will report to Criterion’s Chief
+Operating Officer Mike King. Mr. Hoshino worked for Sega for eleven years,
+culminating as Director of
+
+Product Development and Licence for Sega Europe.
+
+
+
+Criterion’s Tokyo office serves as a sales, marketing and technical support
+centre for the Japanese market, which represents about 33% of the world-wide
+market for
+
+Criterion’s world-leading game development middleware solution RenderWare®
+Platform.
+
+
+
+Commenting on his arrival at Criterion, Mr. Hoshino said "I am extremely
+excited about this opportunity with Criterion Software and am very proud to
+join a successful,
+
+technologically advanced, extremely motivated company with a true
+market-leading portfolio of middleware solutions." He added "Criterion
+Software is in a period of
+
+sustained growth and I believe that my games industry expertise and business
+connections cultivated during my eleven years at Sega will help drive
+forward strategic
+
+ business opportunities for Criterion Software in Japan."
+
+
+
+"I am extremely honoured and delighted to welcome Mr. Naohiko Hoshino to
+Criterion Software," said David Lau-Kee, President, Criterion Software. "Mr.
+Hoshino’s wealth
+
+of market expertise, industry relationships, games development and business
+expertise made him the ideal candidate in our eyes to not only augment our
+sustained,
+
+successful expansion in Japan but also help us continue to drive our
+worldwide vision of technological excellence and world-class support."
+
+
+
+The Tokyo office is based at:
+
+Criterion Software Limited
+
+2-13-18 Nakane
+
+Meguro
+
+Tokyo, 152-0031
+
+Japan
+
+Tel: +81 3 573 153 80
+
+Fax: +81 3 573 153 82
+
+
+
+ENDS
+
+NOTES FOR EDITORS:
+
+Mr Hoshino’s photograph can be downloaded from:
+
+http://www.renderware.com/assets/hoshino_images.html
+
+The Criterion Software and RenderWare Platform logos can be downloaded from:
+
+http://www.renderware.com/assets.html
+
+
+
+About Criterion Software:
+
+Criterion Software is the undisputed world-leading provider of middleware
+solutions for the game development industry. Founded in 1993, Criterion
+Software is a rapidly expanding organisation that today employs over 170
+people in its Software and Games divisions. It is headquartered in Guildford
+- UK, with offices in Tokyo, Austin, Paris and Derby. Criterion Software is
+a wholly owned subsidiary of Canon Inc. Further information on Criterion
+Software can be found at http://www.csl.com.
+
+Canon and RenderWare are registered trademarks of Canon Inc. Microsoft is a
+registered trademark and Xbox is a trademark of Microsoft Corporation.
+PlayStation is a registered trademark of Sony Computer Entertainment Inc.
+Nintendo is a registered trademark and NINTENDO GAMECUBE a trademark of
+Nintendo Co., Ltd. All other trademarks mentioned herein are the property of
+their respective companies.
+
+
+
+Mitra Faulkner
+Marketing Communications Manager
+
+Criterion Software Ltd (a Canon company)
+The undisputed world-leading provider of middleware solutions for the game
+development industry
+
+Westbury Court, Buryfields, Guildford, Surrey GU2 4YZ, UK
+Tel:    +44 (0) 1483 406 312
+Fax:   +44 (0) 1483 406 211
+Web:  www.csl.com
+
+
+
+Subject: [Fwd: News - Pixelogic Ltd Uses Middleware To Maximise Its Revenues]
+Date: Thu, 20 Sep 2001 10:12:58 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: News - Pixelogic Ltd Uses Middleware To Maximise Its Revenues
+Date: Thu, 20 Sep 2001 17:12:20 +0100
+From: Mitra Faulkner <mitra@csl.com>
+To: Mitra Faulkner <mitra@csl.com>
+
+FOR IMMEDIATE RELEASE:
+
+Press Contacts:
+
+Japan -     Akiko Iwagaki, Criterion Software Japan, +81 (0) 3 5731 5380 -
+akikoi@csl.com
+
+USA -        Steve Smith, Criterion Software Inc., +1 512 478 5605  -
+steves@csl.com
+
+Europe -    Mitra Faulkner, Criterion Software, +44(0) 1483 406 312 -
+mitra@csl.com
+
+
+
+           PIXELOGIC LTD USES MIDDLEWARE TO MAXIMISE ITS REVENUES
+
+       The game studio behind the acclaimed "The Italian Job" selects
+           RenderWare Platform, to maximise its revenue potential.
+
+Guildford, UK  – 20 th September 2001  - Criterion  Software today announced
+that Pixelogic Ltd, the developer behind SCI’s highly acclaimed "The Italian
+Job™" on PS
+
+One™, has  licensed RenderWare®  Platform to power  "The Italian Job"  ’s PC
+version.
+
+
+
+By  licensing RenderWare  Platform, Pixelogic  will be  able to  develop and
+release a  PC version  which SCi plan to  release in Q3 2002.  It is because
+RenderWare Platform
+
+allows  developers  to  focus  on  content  and  gameplay  rather  than  the
+technology itself, that Pixelogic  will be able to develop this version in a
+very short amount of time.
+
+
+
+"RenderWare Platform will enable  SCi and Pixelogic to quickly follow on the
+anticipated success  of "The Italian  Job" on PS One."  said Bryan Reynolds,
+Managing
+
+Director, Pixelogic. "RenderWare Platform  is not only a great technology at
+a great price, it’s also backed up by an extensive developer relations team,
+which will be there
+
+to   help  us   get  our   title  looking   great  and  shipped   on  time".
+
+
+
+"To have  RenderWare Platform  associated to such  a fantastic licenc e is a
+great honour," said Mike  King, Chief Operating Officer, Criterion Software,
+"and we are looking
+
+forward  to  helping  Pixelogic  get  the  most  out of  the  PC  platform".
+
+
+
+ENDS
+
+
+
+NOTES FOR EDITORS:
+
+The following images are available on request and can be downloaded
+from http://www.renderware.com/assets/italianjob :
+
+   * The Italian Job screenshots
+
+   * Pixelogic logo
+
+   * SCi logo
+
+Criterion  Software and  RenderWare Platform  logos can  be downloaded  from
+http://www.renderware.com/assets.html
+
+About RenderWare Platform:
+
+RenderWare Platform is a powerful, modular game development environment that
+is open,  flexible and truly multi-platform,  providing game developers with
+unrivalled  2D/3D  graphics,  audio  and  physics  capabilities.  RenderWare
+Platform empowers  game developers  to fully unleash  their game development
+potential  on all  platforms  by allowing  them to  focus  their development
+effort on content and gameplay rather than the technology itself.
+
+Available  today  on  PlayStation®  2,  Xbox™, NINTENDO  GAMECUBE™  and  PC,
+RenderWare Platform is used extensively among the game development community
+worldwide.  Currently, over  160 games  powered by RenderWare  Platform have
+been  released or are  being developed  by heavyweights such  as Activision,
+Creations,  DMA Design,  Eidos  Interactive, Empire  Interactive, Interplay,
+Konami,  Midway, Rage,  Sierra-Online, Sony Computer  Entertainment America,
+THQ, Titus  and Ubisoft. For the  latest information on RenderWare Platform,
+please visit http://www.renderware.com.
+
+About Criterion Software:
+
+Criterion Software  is the  undisputed world-leading provider  of middleware
+solutions  for the  game  development industry.  Founded in  1993, Criterion
+Software  is a rapidly  expanding organisation  that today employs  over 170
+people  in its  software technology  and game  development divisions  and is
+headquartered  in Guildford  UK, with  offices in  Tokyo, Austin,  Paris and
+Derby. Criterion Software is a wholly owned subsidiary of Canon Inc. Further
+information  on  Criterion  Software  can  be found  at   http://www.csl.com
+
+About Pixelogic Limited:
+
+Pixelogic Limited are an independent games developer with offices in
+Sheffield, UK and have a long track record of producing hit games across all
+major platforms. One of our current hugely anticipated games is 'The Italian
+Job' (Release date, Oct 5th). Based on the film of the same name, the game
+allows the player to thrash Mini Coopers and 13 other cars around truly
+massive areas of London and Turin in a bid to pull off a $4,000,000 gold
+bullion heist. For further information on Pixelogic, visit our Website at
+www.pixelogic.co.uk or contact us via email on info@pixelogic.co.uk
+
+About SCi Entertainment Group Plc:
+
+SCi moved to the Official List in March 2000. It is a developer and
+publisher of computer and video games for all commercially successful
+platforms including PC, Internet, Sony PlayStation, Sony PlayStation 2,
+Microsoft Xbox, Nintendo Colour GameBoy, and gaming via mobile phones. It
+owns the rights to several leading games brands including Carmageddon,
+Thunderbirds, The Italian Job, Mille Miglia Titanium Angels, and recently
+The Great Escape.
+
+Canon and RenderWare are  registered trademarks of Canon Inc. Microsoft is a
+registered  trademark  and Xbox  is  a trademark  of Microsoft  Corporation.
+PlayStation   and  PSOne   are  registered   trademarks  of   Sony  Computer
+Entertainment Inc. Nintendo is  a registered trademark and NINTENDO GAMECUBE
+a trademark of Nintendo Co., Ltd. The Italian Job Software © 2001 SCi (Sales
+Curve Interactive)  Limited. The Italian Job  © 2001 Paramount Pictures. All
+Rights  Reserved. Published by  SCi Ltd.  Developed by Pixelogic.  E&OE. All
+other  trademarks  mentioned herein  are  the property  of their  respective
+companies.
+
+Mitra Faulkner
+Marketing Communications Manager
+
+Criterion Software Ltd (a Canon company)
+The undisputed world-leading provider of middleware solutions for the game
+development industry
+
+Westbury Court, Buryfields, Guildford, Surrey GU2 4YZ, UK
+Tel:    +44 (0) 1483 406 312
+Fax:   +44 (0) 1483 406 211
+Web:  www.csl.com
+
+
+
+Subject: [Fwd: Strategy First signs Clusterball to 2001 line-up]
+Date: Tue, 25 Sep 2001 17:55:41 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+    ---------------------------------------------------------------------
+
+Subject: Strategy First signs Clusterball to 2001 line-up
+Date: Tue, 25 Sep 2001 11:20:55 -0400
+From: "Michele Fortier" <mfortier@strategyfirst.com>
+To: <mfortier@strategyfirst.com>
+
+Screenshots are available upon request
+
+************************************************************
+
+For Immediate Release
+
+Strategy First signs another exciting title to its 2001 line-up
+
+Montreal, Quebec.  September 25th, 2001 - Strategy First and Daydream
+Software are bringing players of all genres a unique gaming experience with
+a futuristic twist.
+
+"Strategy First is delving into the mainstream market with this title," says
+Steve Wall, V.P. Business Development for Strategy First.  "Clusterball  is
+a fast and invigorating game that we are confident many players of all
+genres will enjoy."
+
+"This deal is one essential part in our co-ordinated world wide launch of
+the PC game Clusterball", says Anders Gothefors, Senior Marketing and Sales
+Manager for Daydream Software AB. "This gives players from all over the
+world the opportunity to play this unique game."
+
+Clusterball, an online fantasy sports game, combines elements of high speed
+air-racing with true dogfighting and tactical challenges.  In a Clusterball
+match, a player's aim is to collect colored balls from magnetic tracks
+spread out in venues and tow them through a scoring ring using a fast and
+versatile aircraft.  To interfere with opposing pilots, players can pick up
+various kinds of tactical equipment - like the Superboost, Ball Snatcher or
+Tractor Beam.
+
+With amazing 3D graphics and positional sound effects together with
+authentic physics, a perfect setting is created.  Intense matches take place
+in astonishing landscapes inspired by famous locations around the world.
+
+Clusterball can be enjoyed with up to 8 players from all over the globe
+through the Internet.  There is a world spanning ranking system, based on
+results from online matches that is always accessible on
+www.clusterball.com.
+
+Some of the exciting features in Clusterball are:
+
+-       Easy single player training mode to get started
+-       11 detailed venues from around the world
+-       A wide range of aggressive and defensive equipment
+-       Multiplayer with both "Free For All" and team play
+-       Internet play with unparalleled narrowband support
+
+Clusterball, scheduled for release at the end of this year, will be
+published throughout North America by Strategy First and distributed by
+Infogrames
+
+Clusterball is a registered trademark of Daydream Software AB.
+
+About Daydream Software AB
+The Daydream Group develops interactive entertainment, innovative
+technologies and services that are perceivable, distributable and payable
+via the Internet and other digital media. Daydream comprises the
+subsidiaries Daydream Technology, Daydream Entertainment and Daydream
+Ventures. Daydream Software AB is listed on the OM Stockholm Exchange’s O
+list.
+
+About Strategy First
+Strategy First Inc. is a leading developer and worldwide publisher of
+entertainment software for the PC.  Founded in 1990, the company has grown
+rapidly, publishing major games in the industry and simultaneously
+developing its own in-house titles such as O.R.B., Disciples II, Nexagon:
+The Pit and Zero-G Marines.  After winning numerous awards for games such as
+Disciples: Sacred Lands, Europa Universalis, Kohan: Immortal Sovereigns and
+Steel Beasts, Strategy First continues to push the gaming envelope with its
+own groundbreaking titles, while maintaining its reputation as a unique
+alternative for independent developers seeking to market their games to a
+worldwide audience.
+
+Michele Fortier
+Public Relations Representative
+Strategy First Inc.
+147 St. Paul W. Suite 300
+Montreal, Quebec H2Y 1Z5
+(514) 844-3040 ext. 226
+mfortier@strategyfirst.com
+www.strategyfirst.com
+
+Subject: [Fwd: Digital Leisure Releases Arcade Authentic Dragon's Lair for
+     CD-ROM]
+Date: Wed, 26 Sep 2001 10:11:18 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: avmorgan@cloakandgamer.com
+
+and another press release
+
+--L
+
+    ---------------------------------------------------------------------
+
+Subject: Digital Leisure Releases Arcade Authentic Dragon's Lair for CD-ROM
+Date: Wed, 26 Sep 2001 07:56:38 -0700
+From: "Jaime Schultz" <jaimes@digitalleisure.com>
+To: <launcelot@cloakandgamer.com>
+
+Good Morning...and a good one it is!
+
+Hot of the presses and in your hands...okay maybe that does sound a little corny....but it is true!
+
+I am excited to tell you that Digital Leisure has the fully authentic arcade accurate version finally available for you on CD!!
+
+I am currently sending out a media package to you as well with a demo disk of all our fall releases...including  this new Dragons Lair version!  I know you are going to love it!
+
+If you have any questions, need more information, wanna chat or don't receive your media kit in the next week please let me know!
+
+Thanks ~ Jaime
+
+FOR IMMEDIATE RELEASE                                       Company Contact: Jaime Schultz
+September 26, 2001                                               Digital Leisure Inc.
+                                                                 jaimes@digitalleisure.com
+                                                                 www.digitalleisure.com
+
+Digital Leisure Releases Arcade Authentic Dragon's Lair for CD-ROM
+
+The First and Only Fully Authentic Arcade Version Available for Home Computers
+
+GORMLEY, Ontario, Canada - September 26, 2001 - Save the princess, become the valiant knight and keep your quarters for the washing machine!  Bring home the one and only original laserdisc arcade game, Dragon's Lair, in its now fully authentic release for CD-ROM available October 3, 2001 from Digital Leisure.
+
+Having been enjoyed by more than a quarter of a billion people worldwide for almost two decades, Dragon's Lair is the game known by many to have revolutionized the video game industry for all time.  Dragon's Lair is a must have for all video game enthusiasts and collectors, a loved classic for millions and a new adventure for those experiencing the interactive adventure for the first time.  This is the premier of a true arcade version with accurate and original arcade features, never before included, as well as the spectacular video quality achieved through the use of MPEG 1 video, these are available now on CD-ROM.  These features include: the original scoring scheme, arcade circuitry control through software dip switches, multiple levels of difficulty and total scene authentication.  Also included are numerous extras such as the "watch" feature, which enables owners to relax and enjoy the vibrant animation.  Owners can also gain unique insight and perspective on the game's history through historical interviews with the game's creators, which are also accessible through the watch feature.
+
+ "Digital Leisure is doing a spectacular job in allowing everyone to play the Dragon's Lair as they loved it in the arcades," said Dragon's Lair co-creator Don Bluth. "Its so nice to see that it has such a special place in people's hearts around the world!"
+
+Part of worldwide acclaim of Dragon's Lair is the spectacular animation created by Don Bluth, a former Disney animator who is also known for his animation on An American Tail, The Land Before Time, Anastasia and most recently Titian A.E.
+ The young video game players who were entranced by Dragon's Lair in the arcades almost twenty years ago now have children of their own who will love the game just as much as their parents!  Dragon's Lair is one of three video games on display in the prestigious Smithsonian Institution, along with Pong and Pac Man.  It is known as one of the most influential games in video game history.  Remember and enjoy it in its original arcade playable version on CD-ROM available in your favorite gaming store on October 3, 2001.  Digital Leisure is also fully authenticating the other games in this loved series, Space Ace and Dragon's Lair II: Time Warp... watch for these titles from Digital Leisure this fall.
+
+Digital Leisure is a leading publisher of interactive DVD titles.  The company acquires and remasters existing video-intensive titles that would benefit from the superior video and audio quality of DVD.
+Contact:                Digital Leisure Inc.
+                Jaime Schultz, 905/888-9550 x76
+                jaimes@digitalleisure.com
+                http://www.digitalleisure.com
+
+Subject: [Fwd: HUGE WWIIOnline Contest - NEW Until Nov 1]
+Date: Fri, 26 Oct 2001 18:26:40 -0700
+From: Launce Haught <launcelot@cloakandgamer.com>
+Organization: Cloak and Gamer, Online
+To: TigerLily - Kelly Ballard <tigerlily@cloakandgamer.com>,
+     avmorgan@cloakandgamer.com
+
+Hey,
+
+Lets put this on the page somewhere...
+
+--L
+
+    ---------------------------------------------------------------------
+
+Subject: HUGE WWIIOnline Contest - NEW Until Nov 1
+Date: Fri, 26 Oct 2001 17:15:22 -0400
+From: "Kelly Ekins" <kekins@strategyfirst.com>
+To: "Kelly EKins" <kekins@strategyfirst.com>
+
+We would really appreciate your support in putting this contest news up on
+your sites so that your readers can take part over the weekend.  Time is of
+the essence.  November 1st is the deadline.  Here's the contest info:
+(Link: http://www5.playnet.com/bv/wwiiol/contest.jsp)
+
+Sign up for Playnet's Exciting New WWII Online Contest!
+
+Sign-up before November 1st and you'll be entered in a drawing for one of
+three great prize packs.*
+
+(3) GRAND PRIZES- PC GAME SYSTEM
+(1) SECOND PRIZE- A PRIZE PACK WITH (20) TOP GAMES
+(1) THIRD PRIZE- A PRIZE PACK WITH (15) TOP GAMES
+
+Game Systems provided by Able Electronics
+Prize packs provided by Strategy First and Infogrames
+
+Log onto www.wwiionline.com and learn more about the contest details.
+
+Hurry!  Time is running out!
+
+Kelly Ekins
+Public Relations Associate
+Strategy First Inc.
+147 St. Paul West, suite 300
+Montréal, Quebec (Canada)  H2Y 1Z5
+(514) 844 - 3040  x 233
+kekins@strategyfirst.com
+www.strategyfirst.com

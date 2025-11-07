@@ -1,0 +1,80 @@
+gravity
+
+properties of matter
+
+To a curious mind, gravity is a curious phenomenon. The more one pays attention to it, the more fascinating and mysterious it becomes. Today, we have the advantage of having had great minds ponder the mystery and define what can be observed and inferred by studying it. Newton pondered the question "why do objects fall?" and provided us with a theory of universal gravity and his three laws of motion. He essentially defined the terms we now use to describe and quantify gravity, the force that attracts objects with mass to each other. A description, particularly an accurate mathematical description, of gravity is the beginning of an answer to the question "how does gravity actually work?" 
+
+Newton's theory of gravity gave us a grasp of the mechanics of motion, but until Einstein redefined our understanding of the relationship between space and time, and the relationship between mass and energy, changing our concept of gravity, we did not realize that there was a great deal more to the question. Einstein's theory of general relativity revealed an equalivance between the force of gravity and the force of acceleration, with fascinating implications for the relationship between either force and inertia that gave us new insight into the impact of motion on time and space. Einstein's relativity introduced us to the concept of curved or warped space-time. At the same time, Einstein's revelations provide a better description of the phenomenon of gravity while subtly undermining the concept of gravity. That is, it is less clear what gravity is (or what is gravity), specifically, and that makes it more difficult to comprehend how gravity works. 
+
+One of the things that makes gravity so difficult to pin down is the fact that it is inextricably linked to matter through mass, and through mass to space, time and energy; it reveals something profound about how space, time, matter and energy truly relate to each other. We just cannot, quite, see it. We understand that gravity is defined as an inherent interaction between masses with a direct impact on the shape of space in which mass resides. Ironically, space in the form of distance dictates the strength of the force of gravity. The force of attraction between the mass of two objects is proportional to the inverse square of the distance between them. We understand that energy is equivalent to mass times the square of the speed of light (C squared). But what does that actually mean? At the moment, we are looking at the same thing from many different perspectives, none of which provides a complete picture of the whole. 
+
+The descriptions have a way of losing sight of the query at the heart of the question. To answer "how does gravity actually work?" we have to stop and ask ourselves what we are really asking; when asking the question we need to consider what it is about gravity that is so mysterious. What is it about gravity that makes us wonder? We have to return to the question Newton asked, "Why do objects fall?" Newton certainly refined the way we were looking at the problem, but we still need to ask ourselves "what is this force?" or even more explicitly "what is the mechanism of this force?" There is something in the relationship between mass and energy that still bears examination. There is also something more to be understood about the relationship between gravity and other forces of motion, starting with acceleration or the transfer of kinetic energy to an object in opposition to gravity. 
+
+The answer might not come from asking about gravity at all. An interesting insight into the mechanism of gravity came to me through a series of observations about time. The idea was explored in a blog entry only a few days before I stumbled across the "how does gravity actually work?" topic on Helium. At the time, the blog was fresh in my mind and I posted it, without preparing potential readers for the leap my article asked them to make. Having been written in a moment of inspiration, it took a few days for the implications of what I had written to hit me. I had intended to comment on some of the philosophical implications of simulating time, based on the stated observations and examples, but in the process stumbled onto a simulation of the effect of gravity. To share that epiphany, I have to present it in its original form:
+
+In order to understand time it becomes necessary to ask if time is an objective or subjective medium. To be clear, by considering time subjectively I do not mean simply in terms of our subjective perception of time. The question asks if time is absolute, and thus events at different points in time persist in their own frame of reference with a constant relative position in time. Basically, it asks if there are actual positions in and structure to time. The alternative, subjective time, deals with the concept of time as being functional, an operation upon the objective structure of matter and energy in space like the constant balancing of an equation in which there is no actual time, just a present state of the equation.
+
+The purpose for asking this question is because the subjective version of time is one that can be reproduced. We have been doing this since the first human being recounted a story of events, and have refined the process of simulating and manipulating time in computer modeling. The example that prompted this line of inquiry for me is a program called Celestia (http://www.shatters.net/celestia/) that models the universe in four-dimensions. The program allows the user to explore the three-dimensional universe, across vast distances down to the scale of a few meters. It also allows the user to observe celestial motion at varying speed, moving forward or backward in time, in real time or at extreme acceleration. Observing this in action, one can get a real sense of time as a functional operation.
+
+Within the scope of a program like Celestia, time is simply a variable in the program equation; it is the rate of change in the system. Inside of a system, an observer would be subject to the rate of change in the system, and would deduce that no process could occur at a rate exceeding the speed at which changes in the system are resolved. It is actually important to note that an observer, subject to an environment in which actual time is dependent upon the process of change in the system, will only be confronted with the fully rendered product. If the process of change is distributed, occurring at the most basic level of the system, then there will be instances where time will exhibit other subjective properties.
+
+In the event that time is a distributed process, in a varied environment there will be regions where the level of detail is low and thus changes resolve in the optimum process time, but in regions of extremely high detail, where resolution is high density, the process will lag. In a fluid system, the consequence would naturally be that a higher resolution transformation would require more time to process, thus time would appear to slow down in a dense environment. Thus, in such a universe, there would be a direct correspondence between information and mass. The incidence of more information at a point in the system results in persistent lag, which is a subjective distortion of time. A mass of information would always exhibit characteristics of attenuated time.
+
+In a process driven information based universe, the consequences of particles with attenuated time characteristics would include attenuated spacial characteristics in reference to all dynamic interactions. The increase of information in any region would reduce the amount of change possible in that frame of reference. Any information coming into the region of density would become subject to the attenuation. Each mass of information, having the tendency to attenuate time, would also attenuate space specifically, to compensate for the processing debt created by an information mass, the scope of transformation around that mass would be reduced, conserving energy. A natural consequence of this space-time dilation is of course the expansion of the universal frame of reference.
+
+That was as far as the original post went, and it was a product of typing as fast as I could to keep up with my thoughts. I realize that it jumps across points that are clear to me that may not be clear to others; and without outside comment I would not necessarily know what connections need to be spelled out, but to me, while writing this post, I seem to have stumbled upon a very simple explanation for how gravity might work. To strip away all the speculation, the curvature of space-time used to describe gravity might simply be a consequence of the conservation of energy. I honestly do not know if this is a previously noted relationship; the conservation of energy is such a fundamental idea in physics it might simply be taken for granted, described accurately in the math but not commented on. I simply present this as the line of thought whimsy and the topic question brought to my attention, since I do not recall having encountered it elsewhere. 
+
+The quick and dirty translation of underlying thoughts includes a conceptual understanding of space-time as facets of a unified medium of which energy is the essential "substance" underlying and invested in the structure of space as both static and graphic elements subject to dynamic and sequential distributed displacement manifesting as time. In this model of reality, energy becomes mass by acquiring structure, which behaves in accordance to static and dynamic principles like distributed information processing because, whether viewed as physical structure or information, the energy invested in all structures is constantly rebalancing. It is simpler to just say that the gravitic effect that is implicit in a distributed process is a product of the conservation of energy, and it is possible that this is also true for real gravity. 
+
+position
+mass
+volume
+density
+velocity
+intertia
+momentum
+kinetic energy
+friction
+geometry
+
+An Observable Phenomenon
+Action-at-a-distance
+Kepler Motion
+Force, Mass, Energy
+Newton's Laws of Motion (i.e. the ideas of force, acceleration, momentum, and mass) 
+Motion - transformation, matter, energy, space, time; action, reaction, interaction - push, pull or attraction, repulsion
+Conservation of Energy
+Universal Law of Gravity, inverse square relationship of mass and distance (also center of mass, center of gravity)
+Space, Time
+rate of change, frame of reference : the speed of light, the laws of physics
+Einstein's General Theory of Reletivity - distribution, four dimensiona space time, warping
+Geometrodynamics, Non-Euclidean Geometry
+Mass interaction with space-time, mass-energy relationship - medium of energy, media of matter
+van der Waals forces
+Electromagnetic forces
+Scale, Planck Scale or Length
+Resolution
+Optics
+
+action-at-a-distance~force : dimension~non-local phenomenon
+
+properties of energy
+
+structure - objective : substance - subjective
+
+distributed process, resolution, frame of reference constant and conservation of energy conformation
+integral forces, integrity
+
+energy itself can not be created nor destroyed, it can be converted or invested into structure, thus redistributed, producing integral forces : mass is not a specific property in itself, but rather a consequence of creating structure, or rather structuring energy itself. 
+
+look at the relationship between energy and information
+
+look at the relationship between potential and actual
+
+look at the relationship between persistence and resistence, consider resonnance
+
+look at the property of change and process, consider the property of relation and continuity
+
+look at the relationship between acceleration, momentum, gravity and intertia, consider the nature of forces, flow
+
+Eotvoss experiment

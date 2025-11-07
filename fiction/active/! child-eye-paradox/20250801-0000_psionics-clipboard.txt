@@ -1,0 +1,131 @@
+Extra Sensory Perception (ESP)
+
+Sense
+Amplify
+True-Sight
+Intuition
+Danger-Sense
+Precognition
+Combat-Precognition
+Psychometry
+Clairvoyance
+Clairaudience
+Trace
+
+Psychokinesis (PK)
+
+Telekinesis (TK)
+Pyrokinesis (PRK)
+Cryokinesis (CK)
+Spectralkinesis (SK)
+Electrokinesis (EK)
+Magnetokinesis (MK)
+Levitation
+Psychokinetic-Shield
+
+Aurapathy (AP)
+
+Psi-Static
+Psi-Sense
+Psi-Drain
+Psi-Burn
+Psi-Kill
+Psi-Reflect
+Psi-Resistance
+Psi-Amplify
+Psi-Loop
+Psi-Absorb
+Psi-Override
+
+Biokinesis (BK)
+
+Neurostatic
+Sensory-Overload
+Regeneration
+Resilience
+Pain
+Healing
+Pheromones
+Drain
+Invulnerability
+Life-Support
+Stasis
+Biokinetic-Blades
+
+Telepathy (TP)
+
+Astral-Projection
+Empathy
+Empathic-Projection
+Compulsion
+Sleep
+Mind-Tag
+Sense-Tags
+Erase-Tags
+Telesense
+Telescan
+Telereceive
+Telesend
+Telestatic
+Telecontrol
+Mental-Shield
+Mental-Blow
+Mental-Stab
+Mind-trap
+Mind-wipe
+Possession
+Presence
+
+Teleport (TPT)
+
+Endoport (ENPT)
+Exoport (EXPT)
+Disruption-Endoport
+Disruption-Exoport
+Stasis
+Spatial-Stasis
+Mist
+Noncorporeal
+Combat-Endoport
+Ion-Exoport
+Abort-Exoport
+Dimensional-Endoport
+Dimensional-Exoport
+Rift-Blades
+
+Extra Sensory Perception/Psychokinesis (ESP/PK)
+
+Psychokinetic-Field
+Psychokinetic-Blast
+Spectral-Illusion
+Psychokinetic-Blades
+Spectralkinetic-Blades
+Morphokinesis
+Silence
+Spectralkinetic-Field
+Electrokinetic-Field
+Fission
+Fusion
+
+Extra Sensory Perception/Biokinesis (ESP/BK)
+
+Sensory-Override
+Metabolism
+Evolution
+Replication
+Metamorphosis
+
+Extra Sensory Perception/Telepathy (ESP/TP)
+
+Mental-Illusion
+Mind-Program
+Inconspicuousness
+
+Extra Sensory Perception/Teleport (ESP/TPT)
+
+Teleport-Trace
+Fold-Space
+Null-Shield
+Null-Field
+
+Telepathy: The ability to access, influence, and communicate with the minds of other beings through direct psychic connection. Telepathy encompasses a wide range of mental skills, including the reading, transmitting, and manipulation of thoughts, emotions, and intentions. Practitioners may silently converse across great distances, sense the surface thoughts of those nearby, or delve deeper to uncover hidden memories and motivations. With refined mastery, telepaths can shield their own minds from intrusion, form psychic links between individuals, or even coordinate group strategies through instantaneous mental exchange. Applications range from subtle probing for information to overwhelming a target’s will, blending communication, persuasion, and mental defense into a seamless psychic art.
