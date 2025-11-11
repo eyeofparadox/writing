@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html>
+<title>Profile Card</title>
+<header class="manifest">
+	<style type="text/css">
+		.tray-menu {
+		  --ux-trayMenu--backgroundColor: var(--ux-1s71qu, transparent);
+		  --ux-trayMenu--fontSize: var(--ux-q20f9v, var(--ux-vvspv2, 1rem));
+		  --ux-trayMenuChosen--backgroundColor: var(--ux-1a0nc5m, var(--ux-l7zq7p, white));
+		  --ux-trayMenu-indicator--fontSize: var(--ux-c4xe1r, var(--ux-cxbe8g, 1rem));
+		  --ux-trayMenu-indicator--fontWeight: var(--ux-1yw82ai, var(--ux-j40yyd, 400));
+		  --ux-trayMenu-indicator--borderRadius: var(--ux-1x38u9p, var(--ux-1s5tndb, 2px));
+		}
+	</style>
+	<nav class="nav-top">
+		<div class="application-header-container">
+			<div class="nav-top-flex">
+				<div class="nav-left-wrap">
+					<a href="https://venture-redirector.godaddy.com/" target="_self" data-eid="uxp.hyd.app_header.gd_logo.link.click" class="logo brand-logo go-logo-anchor">
+						<figure style="margin:0" class="go-logo desktop-logo" aria-label="GoDaddy">
+							<svg viewBox="0 0 163 34" xmlns="http://www.w3.org/2000/svg">
+								<path d="M32.937 1.554c-3.968-2.48-9.193-1.89-13.852 1.039C14.44-.335 9.213-.925 5.25 1.553c-6.27 3.919-7.032 14.01-1.701 22.54 3.93 6.289 10.074 9.974 15.544 9.906 5.47.068 11.615-3.617 15.545-9.906 5.324-8.53 4.568-18.621-1.701-22.54zM6.43 22.292a20.436 20.436 0 0 1-2.46-5.632 16.104 16.104 0 0 1-.534-5.31c.238-3.153 1.521-5.608 3.612-6.914s4.855-1.385 7.8-.217c.441.177.878.38 1.312.606a24.092 24.092 0 0 0-4.228 5.08C8.697 15.086 7.71 20.849 8.84 25.444a20.912 20.912 0 0 1-2.408-3.151H6.43zm27.786-5.634a20.484 20.484 0 0 1-2.46 5.632 21.103 21.103 0 0 1-2.408 3.158c1.01-4.12.324-9.165-2.153-13.897a.624.624 0 0 0-.895-.243l-7.72 4.823a.629.629 0 0 0-.2.87l1.133 1.81a.632.632 0 0 0 .869.2l5.004-3.125c.162.486.324.97.445 1.457.472 1.725.653 3.518.536 5.303-.238 3.15-1.521 5.606-3.612 6.914a7.061 7.061 0 0 1-3.579 1.036h-.16a7.051 7.051 0 0 1-3.578-1.036c-2.093-1.308-3.376-3.763-3.614-6.914a16.143 16.143 0 0 1 .534-5.31 21.015 21.015 0 0 1 6.444-10.314 16.136 16.136 0 0 1 4.532-2.806c2.936-1.168 5.705-1.09 7.797.217 2.093 1.308 3.375 3.76 3.613 6.914a16.145 16.145 0 0 1-.528 5.31zm39.848-3.766c-4.06 0-7.34 3.169-7.34 7.2 0 4.004 3.28 7.12 7.34 7.12 4.086 0 7.366-3.111 7.366-7.12 0-4.03-3.275-7.2-7.366-7.2zm0 10.557c-1.871 0-3.295-1.513-3.295-3.384s1.424-3.407 3.295-3.407c1.898 0 3.322 1.54 3.322 3.412 0 1.87-1.424 3.385-3.322 3.385v-.006zM90.583 7.362h-7.468a.6.6 0 0 0-.61.612v18.208a.607.607 0 0 0 .61.648h7.468c5.977 0 10.13-3.975 10.13-9.758 0-5.818-4.153-9.71-10.13-9.71zm.177 15.622h-4.087V11.198h4.087c3.308 0 5.588 2.474 5.588 5.866 0 3.336-2.28 5.92-5.588 5.92zm24.82-9.7h-2.809a.63.63 0 0 0-.582.612v.833c-.64-1.057-2.085-1.835-3.884-1.835-3.503 0-6.783 2.75-6.783 7.145 0 4.37 3.251 7.17 6.755 7.17 1.806 0 3.28-.776 3.92-1.833v.86a.585.585 0 0 0 .582.586h2.808a.575.575 0 0 0 .543-.36.564.564 0 0 0 .041-.225V13.896a.595.595 0 0 0-.591-.612zm-6.533 10.196c-1.86 0-3.256-1.43-3.256-3.412s1.397-3.41 3.256-3.41c1.86 0 3.257 1.426 3.257 3.408s-1.395 3.412-3.257 3.412v.002zm22.294-16.118h-2.808a.588.588 0 0 0-.561.355.598.598 0 0 0-.049.229v6.728c-.648-1.002-2.114-1.78-3.948-1.78-3.476 0-6.7 2.75-6.7 7.145 0 4.37 3.252 7.17 6.755 7.17 1.806 0 3.17-.776 3.92-1.833v.86c0 .323.261.584.583.586h2.808a.571.571 0 0 0 .584-.585V7.95a.569.569 0 0 0-.357-.547.573.573 0 0 0-.227-.041zm-6.532 16.152c-1.852 0-3.237-1.444-3.237-3.448s1.39-3.447 3.237-3.447c1.846 0 3.237 1.444 3.237 3.447s-1.384 3.448-3.237 3.448zm22.29-16.152h-2.803a.597.597 0 0 0-.562.355.581.581 0 0 0-.05.229v6.728c-.64-1.002-2.114-1.78-3.947-1.78-3.477 0-6.7 2.75-6.7 7.145 0 4.37 3.253 7.17 6.755 7.17 1.807 0 3.168-.776 3.92-1.833v.86a.586.586 0 0 0 .584.586h2.803a.571.571 0 0 0 .542-.36.564.564 0 0 0 .04-.225V7.95a.567.567 0 0 0-.582-.588zm-6.532 16.152c-1.853 0-3.237-1.444-3.237-3.448s1.39-3.447 3.237-3.447c1.846 0 3.237 1.444 3.237 3.447s-1.38 3.448-3.232 3.448h-.005zm21.906-9.283-4.19 14.37c-.809 2.556-2.613 4.086-5.421 4.086-1.277 0-2.44-.261-3.35-.782-.531-.303-.971-.58-.971-1.023 0-.275.089-.417.25-.675l.832-1.246c.235-.348.408-.461.66-.461a.96.96 0 0 1 .554.192c.523.339 1.008.63 1.748.63.864 0 1.524-.277 1.88-1.306l.36-1.193h-1.696c-.418 0-.648-.25-.751-.584l-3.75-12.008c-.14-.473-.011-.946.683-.946h2.954c.36 0 .613.123.771.64l2.77 9.67 2.589-9.67c.082-.334.306-.64.75-.64h2.802c.552-.001.719.387.526.946zm-96.806 4.274v7.676a.625.625 0 0 1-.635.634h-2.317a.622.622 0 0 1-.634-.634v-2.015c-1.472 1.858-4.03 3.028-6.924 3.028-5.434 0-9.681-4.088-9.681-9.908 0-6.048 4.585-10.217 10.377-10.217 4.276 0 7.694 1.839 9.212 5.537a.842.842 0 0 1 .07.309c0 .175-.116.307-.486.435l-2.706 1.042a.694.694 0 0 1-.511.009.783.783 0 0 1-.324-.371c-.971-1.847-2.7-3.1-5.36-3.1-3.45 0-5.922 2.694-5.922 6.188 0 3.387 2.104 6.172 6.02 6.172 2.06 0 3.703-.97 4.469-2.037H57.87a.625.625 0 0 1-.634-.635v-2.086a.626.626 0 0 1 .634-.634h7.161a.602.602 0 0 1 .587.367.6.6 0 0 1 .049.24z"/>
+							</svg>
+						</figure>
+					</a>
+					<div class="application-header-nav nav-left">
+						<div class="nav-top-item waffle-wrapper" data-eid="uxp.hyd.app_header.waffle_menu.click">
+							<div class="tray-menu waffle-menu">
+								<div class="tray-toggle-wrapper">
+									<button aria-label="My Account" class="tray-toggle" aria-expanded="false" aria-haspopup="true">
+										<span>
+											<div class="waffle-btn">
+												<svg class="uxicon-svg-container" height="1.5em" width="1.5em" role="presentation">
+													<use fill="currentColor" xlink:href="#svg-container-apps"/>
+												</svg>
+												<span class="product-name">My Account</span>
+											</div>
+										</span>
+										<span class="chevron-down">
+											<svg class="uxicon-svg-container tray-toggle-chevron" height="20" width="20" role="presentation">
+												<use fill="currentColor" xlink:href="#svg-container-chevron-down"/>
+											</svg>
+										</span>
+									</button>
+									<span class="tray-toggle-caret" style="margin-left: 62.7265px;"/>
+								</div>
+								<div class="tray-align-left tray-dropdown loaded">
+									<div class="tray-content">
+										<button class="tray-close" aria-label="close">
+											<svg class="uxicon-svg-container" height="24" width="24" role="presentation">
+												<use fill="currentColor" xlink:href="#svg-container-x"/>
+											</svg>
+										</button>
+										<div class="top-links">
+											<a href="https://account.godaddy.com/products?go_redirect=disabled" target="_self" data-eid="uxp.hyd.waffle_menu.manage_my_products.link.click" id="PC:AppHeader:Header:ManageMyProducts" title="Manage My Products" class="waffle-link">
+												<span>Manage My Products</span>
+											</a>
+											<a href="https://www.godaddy.com" target="_self" data-eid="uxp.hyd.waffle_menu.shop_gd.link.click" id="PC:AppHeader:Header:ShopGD" title="Shop GoDaddy.com" class="waffle-link">
+												<span>Shop GoDaddy.com</span>
+											</a>
+										</div>
+										<div class="tray-menu-divider"/>
+										<div class="quick-links-heading tray-heading">
+											<span>QUICK LINKS</span>
+										</div>
+										<div class="quick-links">
+											<a href="https://dcc.godaddy.com/control/portfolio" target="_self" data-eid="uxp.hyd.waffle_menu.product_domains.link.click" id="PC:AppHeader:Header:product-domains" title="Domains" class="waffle-link">
+												<span>Domains</span>
+											</a>
+											<a href="https://account.godaddy.com/products?accid=44" target="_self" data-eid="uxp.hyd.waffle_menu.product_websites.link.click" id="PC:AppHeader:Header:product-websites" title="Websites" class="waffle-link">
+												<span>Websites</span>
+											</a>
+											<a href="https://myh.godaddy.com" target="_self" data-eid="uxp.hyd.waffle_menu.product_hosting_wordpress.link.click" id="PC:AppHeader:Header:product-hosting-wordpress" title="Hosting &amp; WordPress" class="waffle-link">
+												<span>Hosting &amp; WordPress</span>
+											</a>
+											<a href="https://productivity.godaddy.com/emailchooser" target="_self" data-eid="uxp.hyd.waffle_menu.product_email_office.link.click" id="PC:AppHeader:Header:product-email-office" title="Email &amp; Office" class="waffle-link">
+												<span>Email &amp; Office</span>
+											</a>
+											<a href="https://certs.godaddy.com" target="_self" data-eid="uxp.hyd.waffle_menu.product_ssl.link.click" id="PC:AppHeader:Header:product-ssl" title="SSL Certificates" class="waffle-link">
+												<span>SSL Certificates</span>
+											</a>
+											<a href="https://commerce.godaddy.com/home" target="_self" data-eid="uxp.hyd.waffle_menu.product_commerce.link.click" id="PC:AppHeader:Waffle:CommercePayments" title="Commerce &amp; Payments" class="waffle-link">
+												<span>Commerce &amp; Payments</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<ul class="application-header-nav nav-right">
+					<li class="nav-top-item">
+						<a href="https://www.godaddy.com/help?referrer=https%253A%252F%252Faccount.godaddy.com%252Fproducts" target="_blank" data-eid="uxp.hyd.app_header.help_center.link.click" data-tcc-ignore="true" class="single-parent-link nav-link-help" title="Help">
+							<svg class="uxicon-svg-container" height="30" width="30" role="presentation">
+								<use fill="currentColor" xlink:href="#svg-container-help"/>
+							</svg>
+						</a>
+					</li>
+					<li class="nav-top-item">
+						<div id="cart-icon-wrapper">
+							<div id="checkout-cart-cart-icon">
+								<div class="sawgujg" style="--sawgujg-0: currentColor; --sawgujg-1: #1BDBDB; --sawgujg-2: #FFFFFF; --sawgujg-3: #111111; --sawgujg-4: #1BDBDB;">
+									<a data-version="2400" class="ux-text ux-button cart-button single-parent-link nav-link-cart ux-button-inline ux-button-square" href="https://cart.godaddy.com" id="cartIcon" aria-label="Checkout Now" data-cy="cart-icon-button">
+										<span class="cart-icon" aria-label="Checkout Now">
+											<svg class="uxicon-svg-container" height="30" width="30" role="presentation">
+												<use fill="currentColor" xlink:href="#svg-container-cart"/>
+											</svg>
+										</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li class="nav-top-item">
+						<div id="site-notifications-wrapper" style="display: flex;">
+							<div id="notifications">
+								<div>
+									<button id="notifications-bell" class="notifications-bell fs-unmask b1s688tc" type="button" aria-label="Notifications" aria-expanded="false">
+										<div id="notifications" title="Notifications" class="sa05rra" style="--sa05rra-0: var(--ux-1leynsm, black);">
+											<div>
+												<svg class="uxicon-svg-container notifications-icon" height="1.5em" width="1.5em" role="presentation">
+													<use fill="currentColor" xlink:href="#svg-container-bell"/>
+												</svg>
+												<div class="awal04u" style="--awal04u-0: 5;">
+													<span class="notifications-bubble-count smb7x2d" style="--smb7x2d-0: var(--ux-tt846z, white); --smb7x2d-1: var(--ux-83yt9q, red);">1</span>
+												</div>
+											</div>
+										</div>
+									</button>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li class="nav-top-item">
+						<div>
+							<style type="text/css">
+								.tray-menu {
+								  --ux-trayMenu--backgroundColor: var(--ux-1s71qu, transparent);
+								  --ux-trayMenu--fontSize: var(--ux-q20f9v, var(--ux-vvspv2, 1rem));
+								  --ux-trayMenuChosen--backgroundColor: var(--ux-1a0nc5m, var(--ux-l7zq7p, white));
+								  --ux-trayMenu-indicator--fontSize: var(--ux-c4xe1r, var(--ux-cxbe8g, 1rem));
+								  --ux-trayMenu-indicator--fontWeight: var(--ux-1yw82ai, var(--ux-j40yyd, 400));
+								  --ux-trayMenu-indicator--borderRadius: var(--ux-1x38u9p, var(--ux-1s5tndb, 2px));
+								}
+							</style>
+							<div class="tray-menu customer-menu open">
+								<div class="tray-toggle-wrapper">
+									<button aria-label="Customer info" class="tray-toggle" aria-expanded="true" aria-haspopup="true">
+										<span class="app-icon account-tray-icon">
+											<svg class="uxicon-svg-container" height="29" width="29" role="presentation">
+												<use fill="currentColor" xlink:href="#svg-container-user"/>
+											</svg>
+										</span>
+										<span class="chevron-down open">
+											<svg class="uxicon-svg-container tray-toggle-chevron" height="20" width="20" role="presentation">
+												<use fill="currentColor" xlink:href="#svg-container-chevron-down"/>
+											</svg>
+										</span>
+									</button>
+									<span class="tray-toggle-caret" style="margin-left: 24.3438px;"/>
+								</div>
+								<div class="tray-align-right tray-dropdown loaded">
+									<div class="tray-content">
+										<button class="tray-close" aria-label="close">
+											<svg class="uxicon-svg-container" height="24" width="24" role="presentation">
+												<use fill="currentColor" xlink:href="#svg-container-x"/>
+											</svg>
+										</button>
+										<div class="customer-info-wrap">
+											<div class="customer-name">David Roberson</div>
+											<div class="customer-details">
+												<div>
+													<div>
+														<div class="shopper-id">
+															<span>Customer #</span>: 660754205</div>
+														<div class="shopper-pin">
+															<span>PIN:</span>
+															<a href="https://account.godaddy.com/security/login-info/edit" target="_blank">
+																<span>View</span>
+															</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="tray-heading">
+											<span>ACCOUNT</span>
+										</div>
+										<a class="customer-link" href="https://account.godaddy.com/products?go_redirect=disabled" data-eid="uxp.hyd.app_header.my_products.link.click">
+											<span>My Products</span>
+										</a>
+										<a class="customer-link" href="https://account.godaddy.com" data-eid="uxp.hyd.app_header.account_settings.link.click">
+											<span>Account Settings</span>
+										</a>
+										<a class="customer-link" href="https://account.godaddy.com/subscriptions" data-eid="uxp.hyd.app_header.my_renewals.link.click">
+											<span>Renewals &amp; Billing</span>
+										</a>
+										<div class="tray-menu-divider"/>
+										<a class="customer-link" href="https://www.godaddy.com" data-eid="uxp.hyd.app_header.shop_gd.link.click">
+											<span>Shop GoDaddy.com</span>
+										</a>
+										<a class="customer-link login" href="https://sso.godaddy.com/logout?realm=idp&amp;app=www&amp;path=" data-eid="uxp.hyd.app_header.sign_out.link.click">
+											<span>Sign Out</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="menu-bg"/>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
+
+<style>/* eyeofparadox.account-info-open.logged-in.0.mhtml.css */
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x7DF4xlVMF-BfR8bXMIjhOm3CWWoKC.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x7DF4xlVMF-BfR8bXMIjhOm3mWWoKC.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x7DF4xlVMF-BfR8bXMIjhOm36WWoKC.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x7DF4xlVMF-BfR8bXMIjhOm3KWWoKC.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x7DF4xlVMF-BfR8bXMIjhOm3OWWoKC.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x7DF4xlVMF-BfR8bXMIjhOm32WWg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x5DF4xlVMF-BfR8bXMIjhGq3-OXg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x5DF4xlVMF-BfR8bXMIjhPq3-OXg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x5DF4xlVMF-BfR8bXMIjhIq3-OXg.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x5DF4xlVMF-BfR8bXMIjhEq3-OXg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x5DF4xlVMF-BfR8bXMIjhFq3-OXg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotomono/v30/L0x5DF4xlVMF-BfR8bXMIjhLq38.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+
+<body>
+<div class="account-info-component account-info-open logged-in">
+	<div class="account-info-content">
+		<div class="customer-info">
+			<div class="avatar">
+				<div data-testid="avatar-initials" class="avatar-picture avatar-initials">DR</div>
+			</div>
+			<h5 class="customer-name">David Roberson</h5>
+			<div class="customer-details">
+				<div class="shopper-id">
+					<span>Customer #</span>: <span>660754205</span>
+				</div>
+				<div class="shopper-pin">
+					<span>PIN</span>: <a href="https://account.godaddy.com/security/login-info/edit" rel="noreferrer" target="_blank" data-eid="app_sidebar.independent.account_info.reset_pin.link.click">
+						<span>View</span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="account-info-divider"/>
+		<div class=""/>
+		<a href="https://account.godaddy.com/products?go_redirect=disabled" target="_self" data-eid="pandc.vnext_sso.header/my_products.menu_item.click" class="customer-link-component">
+			<span class="nav-link-label">My Products</span>
+		</a>
+		<div class=""/>
+		<a href="https://account.godaddy.com/" target="_self" data-eid="pandc.vnext_sso.header/account_settings.menu_item.click" class="customer-link-component">
+			<span class="nav-link-label">Account Settings</span>
+		</a>
+		<div class=""/>
+		<a href="https://account.godaddy.com/subscriptions" target="_self" data-eid="pandc.vnext_sso.header/renewals_and_billing.menu_item.click" class="customer-link-component">
+			<span class="nav-link-label">Renewals &amp; Billing</span>
+		</a>
+		<div class="account-info-divider"/>
+		<div class=""/>
+		<a href="https://www.godaddy.com/" target="_self" data-eid="pandc.vnext_sso.header/shop_godaddycom.menu_item.click" class="customer-link-component">
+			<span class="nav-link-label">Shop GoDaddy.com</span>
+		</a>
+		<a href="https://sso.godaddy.com/logout?realm=idp&amp;path=%2F&amp;app=venture-redirector" target="_self" class="customer-link-component">
+			<span>Sign Out</span>
+		</a>
+		<footer id="appheader-footer" class="manifest footer">
+			<div class="app-footer-container">
+				<span>© 2025 GoDaddy - </span>
+				<a class="privacy-link" href="https://www.godaddy.com/legal/agreements/privacy-policy?target=_blank" target="_blank" rel="noopener noreferrer" data-eid="uxp.hyd.int.pc.app_header.footer.privacy_policy.link.click">
+					<span>Privacy Policy</span>
+				</a>
+				<div class="do-not-sell">
+					<a class="privacy-link" href="https://www.godaddy.com/legal/agreements/cookie-policy" data-eid="uxp.hyd.int.pc.app_header.footer.do_not_sell.link.click">
+						<span>Do not sell my personal information</span>
+					</a>
+				</div>
+			</div>
+		</footer>
+	</div>
+</div>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>

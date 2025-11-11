@@ -1,0 +1,10 @@
+{
+	"id": "import-github-readme",
+	"name": "Import GitHub Readme",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Fetches and integrates GitHub README files into personal notesmai",
+	"author": "Chasebank87",
+	"authorUrl": "https://chaseelder.com",
+	"isDesktopOnly": false
+}

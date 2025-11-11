@@ -1,0 +1,36 @@
+divide by zero
+
+http://www.helium.com/items/1186607-division-by-zero
+
+Is it possible to divide a number by zero? Conventional thinking in mathematics declares this to be impossible, but this answer is contingent on a point of view. The problem here lies in the normal interpretation of the value of the number zero; a representation of "nothing" zero is seen as more of a place holder, a number that has no value. By contrast, infinity is a value that has no number. In multiplication, the value of any number times zero is zero. It is like declaring a number in theory. It is like saying "no number" and when it comes to division by zero, one might as well be saying "no division" because use of the number zero declares no number of parts into which a value could be separated, including one, producing a value in no parts. The common assumption is that division by zero would equal infinity, and this assumption is supported in division by vanishingly small numbers.
+
+The question to ask here is, is there any other representation of zero that could allow for a different point of view, one from which a number can be divided by zero? The answer to this question is, surprisingly, yes. Division by zero results in a number line that includes positive and negative numbers. For simplicity's sake, ten divided by zero is equal to five plus minus five; it is a line segment with an absolute value of ten and an effective value of zero - or zero to the power of one in order to indicate the occurence of one bisection. It could also equal two-point-five-sub-x minus two-point-five-sub-x plus or minus two-point-five-sub-y minus two-point-five-sub-y; it is an intersection of vertical and horizontal line segments with an absolute value of ten and an effective value of zero - or zero to the power of two in order to indicate the occurence of two bisections).To be a bit more explicit, any number divided by zero is equal to a symmetrical, neutral "excluded" equation. 
+
+As stated above, division by zero declares no number of parts into which a value can be separated, but it does not matter. Any rational number of parts that may be derived from the absolute value of the numerator but cancel out relative to each other will suffice. This could be represented by placing that segment across the zero point perpendicular to the base number line. It represents a number or value that still exists but is now external to or in a different dimension from the original system. In this approach, the result is finite and bounded, but the same value can be shifted up to the next dimension that is finite and unbounded. A valid solution of ten divided by zero might be a circle with the circumference of ten at a radius perfectly perpendicular to the number line at zero. 
+
+This construction allows us to escape the paradox of all numbers being equal to infinity when divided by zero. In application, a number divided by zero is effectively "displaced" from the working continuum. A factor of displacement could be computed by taking the initial value as the circumference of a circle and solving for the radius. That, however, is a derivitive and should be explored elsewhere. The point that is next in significance is the fact that, if division by zero is possible, if treated as a transformation, what does this mean for multiplication by zero? It can be easier to address this as zero multiplied by a number, in contrast to the notion of a number multiplied by zero. 
+
+In the equation "ten times zero" we appear to be saying that the number and value of ten does not occur, in effect stating that the number and value of ten does not exist. However, in the equation "zero times ten" we are saying that the absence of a numeric value occurs ten times. In effect, we are declaring the number zero in ten dimensions. This is not so different from what occurs when dividing zero in the fashion presented here in that a value is preserved, again escaping the paradox of all numbers being equal to zero when multiplied by zero. In specific, zero times n is an equation that defines the complexity of a point by declaring its coordinate system. 
+
+The question to ask at this point is whether or not this interpretation of division by zero can be considered inverse to multiplication by zero. Assuming that the reinterpretation of zero times n is commutative, associative and distributive, zero times n is equal to n times zero, and we have the option of expressing the result as zero to the power of n or n to the power of zero. This is not exactly the result anticipated in the breakdown of n divided by zero. In the example of ten divided by zero the solutions that were presented distributed the value in higher dimensions, with zero to the power of one being the default. What happens if instead of the assumed division by zero to the power of one, ten is divided by zero to the power of ten?
+
+The process for dividing by zero introduced in this article was inspired by a visual observation that could be described as a form of bisection to acheive division. To apply this process, any number of bisections is possible, resulting in a number of segments equal to the number of bisections and equal in combined length to the original numerator. Each section is bisected by the same zero-point and lies in it's own dimension in which half of the section is positive and half is negative. In essence, the consequence of dividing a number by zero is the polarization of the absolute value to move it out of an equation's number line and negate it's apparent value. 
+  
+10/0^1 = 5 + (-5)
+10/0^2 = 2.5 + (-2.5) + 2.5 + (-2.5) 
+10/0^3 = 1.6... + (-1.6...) + 1.6... + (-1.6...) + 1.6... + (-1.6...)
+
+...because this is clearly repetitive the equation could be simplified as: 
+
+10/0^3 = 3[1.6... + (-1.6...)] 
+
+...and the expression of ten divided by zero-to-the-power-of-ten):
+
+10/0^10 = 10 [0.5 + (-0.5)] or 10(0)
+
+What is interesting, at this point, is the implication that zero divided by n is identical to zero multiplied by n, being in effect nothing in n parts. 
+
+ 
+
+
+ 

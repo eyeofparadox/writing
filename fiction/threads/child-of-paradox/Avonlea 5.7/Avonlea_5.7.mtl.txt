@@ -1,0 +1,362 @@
+newmtl Torso
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Face
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Lips
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Teeth
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Ears
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Legs
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl EyeSocket
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Mouth
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Arms
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Pupils
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl EyeMoisture
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Fingernails
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Cornea
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Irises
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Sclera
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Toenails
+d 1
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl 3_SkinFoot
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 6_Eyelash
+d 0
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 5_Sclera
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 5_Pupil
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 5_Iris
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 5_Cornea
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 4_Tongue
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 4_Teeth
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 4_InnerMouth
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 4_Gums
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 3_SkinArm
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 2_SkinTorso
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 2_Nipple
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 2_SkinNeck
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 3_SkinForearm
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 3_SkinLeg
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 2_SkinHip
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 2_SkinHead
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 3_SkinHand
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 7_Tear
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 1_Nostril
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 1_Lip
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 5_Lacrimal
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 1_SkinFace
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 3_Fingernail
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl 3_Toenail
+d 1
+Ns 0.75
+Ni 1.3
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 1 1 1
+Km 0.02
+
+newmtl Torso_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Face_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Lips_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Teeth_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Ears_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Legs_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl EyeSocket_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Mouth_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Arms_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Pupils_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl EyeMoisture_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Fingernails_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Cornea_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Irises_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Sclera_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+
+newmtl Toenails_Genesis_8_Female
+d 0.3282443
+Kd 0.45490196 0.45490196 0.45490196
+

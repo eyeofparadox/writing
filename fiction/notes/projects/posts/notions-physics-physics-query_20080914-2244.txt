@@ -1,0 +1,32 @@
+persistent
+
+static
+
+space
+
+mass
+
+is associated with gravity
+
+is not a constant?
+...implicit in the assertion that mass increases as an object approaches the speed of light
+...an implication here is that an objective relationship between mass and motion might be derived
+...is a property of matter, but not matter itself 
+
+matter
+
+is a structure of bound forces 
+.:.electric, magnetic, gravitic, strong-nuclear, weak-nuclear 
+
+change is the only constant
+
+energy
+
+is associated with mass ~ E=mcc
+is associated with force ~ f=ma
+
+time
+
+dynamic
+
+constant 
